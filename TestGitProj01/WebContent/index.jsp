@@ -16,7 +16,7 @@
 	<ul>
 		<li>Git첫번째항목</li>
 		<li>두번째항목추가</li>
-		<li></li>
+		<li>집에서 작업 추가</li>
 	</ul>
 </body>
 </html>
