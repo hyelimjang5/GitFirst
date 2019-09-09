@@ -8,7 +8,7 @@
 		<EM><A class="local_home"
 			href="http://fresh-on.co.kr/order/cart.php#">HOME</A> &gt; 장바구니</EM>
 	</DIV>
-</DIV>
+</DIV> 
 <!-- //location_wrap -->
 <DIV class="sub_content">
 	<!-- //side_cont -->
