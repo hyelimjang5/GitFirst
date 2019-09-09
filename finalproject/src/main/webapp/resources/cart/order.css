@@ -1,0 +1,783 @@
+.order_zone_tit {
+	margin: 0px; padding: 0px 0px 10px; font-size: 16px;
+}
+.order_zone_tit h3 {
+	font-size: 16px;
+}
+.order_zone_tit h4 {
+	font-size: 16px;
+}
+.order_zone_tit span {
+	padding: 0px 0px 0px 10px; color: rgb(119, 119, 119); font-size: 12px; font-weight: normal;
+}
+.order_table_type + .btn_left_box {
+	margin: 10px 0px 30px;
+}
+.order_wrap .order_tit {
+	overflow: hidden; border-bottom-color: rgb(219, 219, 219); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.order_wrap .order_tit h2 {
+	color: rgb(34, 34, 34); font-size: 28px; float: left;
+}
+.order_wrap .order_tit ol {
+	line-height: 62px; float: right;
+}
+.order_wrap .order_tit ol li {
+	color: rgb(209, 209, 209); font-size: 14px; float: left;
+}
+.order_wrap .order_tit .page_on {
+	color: rgb(51, 51, 51); font-weight: bold;
+}
+.order_wrap .order_tit li span {
+	font-size: 16px; font-weight: bold;
+}
+.order_wrap .order_tit li span > img {
+	padding: 0px 14px; vertical-align: -1px;
+}
+.order_wrap .cart_cont .no_data {
+	margin: 0px 0px 20px; padding: 60px 0px; text-align: center; color: rgb(68, 68, 68); border-bottom-color: rgb(219, 219, 219); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.order_table_type {
+	
+}
+.order_table_type .td_left {
+	text-align: left;
+}
+.order_table_type table {
+	border: 0px currentColor; border-image: none; width: 100%; text-align: center; border-collapse: collapse; border-spacing: 0;
+}
+.order_table_type th {
+	background: rgb(247, 247, 247); padding: 9px 10px 10px; border-top-color: rgb(153, 153, 153); border-bottom-color: rgb(219, 219, 219); border-top-width: 1px; border-bottom-width: 1px; border-top-style: solid; border-bottom-style: solid;
+}
+.order_table_type td {
+	background: rgb(255, 255, 255); padding: 15px 10px 14px; height: 31px; color: rgb(119, 119, 119); border-bottom-color: rgb(219, 219, 219); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.order_table_type td > strong {
+	color: rgb(51, 51, 51);
+}
+.order_table_type .btn_down_box {
+	
+}
+.order_table_type th .form_element {
+	vertical-align: middle;
+}
+.order_table_type .text_info {
+	padding: 2px 0px; color: rgb(153, 153, 153); font-size: 11px; display: block;
+}
+.order_table_type .coupon_price {
+	color: rgb(51, 51, 51); font-size: 14px;
+}
+.order_table_type .coupon_price b {
+	padding: 0px 2px 0px 0px; font-size: 16px;
+}
+.order_table_type .row_line td {
+	border-bottom-color: rgb(235, 235, 235); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.order_table_type table td.order_day_num {
+	border-right-color: rgb(237, 237, 237); border-bottom-color: rgb(219, 219, 219); border-right-width: 1px; border-bottom-width: 1px; border-right-style: dotted; border-bottom-style: solid;
+}
+.order_table_type .btn_claim > span {
+	margin: 7px 0px 0px; display: inline-block;
+}
+.order_table_type .order_sum_txt {
+	font-size: 13px;
+}
+.order_table_type .time_sale_cost {
+	background: url("../../img/icon/goods_icon/icon_time_sale_cost.png") no-repeat left 10px; padding: 7px 0px 5px 20px; font-size: 13px; display: inline-block;
+}
+.order_table_type .pick_add_cont .pick_add_info .normal_btn em {
+	font-weight: normal;
+}
+.order_table_type .table_left {
+	border-top-color: rgb(153, 153, 153); border-top-width: 1px; border-top-style: solid;
+}
+.order_table_type .table_left th {
+	background: rgb(247, 247, 247); padding: 15px 10px 14px 20px; text-align: left; border-top-color: currentColor; border-top-width: 0px; border-top-style: none;
+}
+.order_table_type .table_left td {
+	padding: 12px 10px 11px 15px; height: 31px; text-align: left;
+}
+.order_table_type .table_left textarea {
+	width: 95%;
+}
+th > .important {
+	background: url("../../img/member/icon_dot_03.png") no-repeat 0px; margin: 0px 0px 0px -10px; padding: 0px 0px 0px 10px;
+}
+.cart_cont_list {
+	margin: 50px 0px 10px;
+}
+.cart_cont_list .order_cart_tit {
+	padding: 0px 0px 10px; font-size: 16px;
+}
+.order_table_type .pick_add_cont {
+	width: 100%; display: table; position: relative;
+}
+.order_table_type .pick_add_cont .pick_add_img {
+	padding: 0px 10px 0px 0px; width: 38px; vertical-align: top; display: table-cell;
+}
+.order_table_type .pick_add_cont .pick_add_img img {
+	border: 1px solid rgb(219, 219, 219); border-image: none; vertical-align: middle;
+}
+.order_table_type .pick_add_cont .pick_btn_box {
+	padding: 0px 0px 2px;
+}
+.order_table_type .pick_add_cont .pick_add_info {
+	padding: 0px; text-align: left; vertical-align: middle; display: table-cell; -ms-word-break: break-all;
+}
+.order_table_type .pick_add_cont .pick_add_info em {
+	color: rgb(51, 51, 51); font-weight: bold; display: block;
+}
+.order_table_type .pick_add_cont .text_type_cont {
+	padding: 3px 0px; color: rgb(169, 169, 169); line-height: 1; font-size: 11px; display: block;
+}
+.pick_add_info .icon_pick_list {
+	
+}
+.pick_add_info .icon_pick_list div {
+	display: inline-block;
+}
+.pick_add_info .icon_pick_list .icon_pg_over {
+	display: inline-block; position: relative; z-index: 10;
+}
+.pick_add_info .icon_pick_list .icon_pg_over:hover {
+	display: inline-block;
+}
+.pick_add_info .icon_pick_list .icon_pg_over:hover .icon_pg_cont {
+	display: block;
+}
+.pick_add_info .icon_pick_list .icon_pg_cont {
+	background: rgb(255, 255, 255); border: 1px solid rgb(102, 102, 102); border-image: none; left: 0px; top: 13px; width: 68px; text-align: center; display: none; position: absolute;
+}
+.pick_add_info .icon_pick_list .icon_pg_cont strong {
+	background: rgb(244, 244, 244); padding: 4px 5px 5px; color: rgb(51, 51, 51); display: block;
+}
+.pick_add_info .icon_pick_list .icon_pg_cont ul {
+	background: rgb(255, 255, 255); margin: 0px auto; width: 90%;
+}
+.pick_add_info .icon_pick_list .icon_pg_cont ul li {
+	padding: 4px 5px 5px; border-top-color: rgb(232, 232, 232); border-top-width: 1px; border-top-style: solid;
+}
+.pick_add_info .icon_pick_list .icon_pg_cont ul li:first-child {
+	border-top-color: currentColor; border-top-width: 0px; border-top-style: none;
+}
+.pick_add_info .chk_none {
+	margin: 0px;
+}
+.pick_add_info .caution_msg1 {
+	background: url("../../img/icon/caution-1.png") no-repeat left 2px rgb(255, 255, 255); margin: 15px 0px 0px; padding: 0px 0px 0px 19px; color: rgb(62, 61, 60); line-height: 20px; min-height: 17px;
+}
+.nomal_layer {
+	background: rgb(255, 255, 255); left: 30px; top: 0px; position: absolute; z-index: 10;
+}
+.nomal_layer .wrap {
+	border: 1px solid rgb(153, 153, 153); border-image: none; position: relative;
+}
+.nomal_layer .wrap > strong {
+	background: rgb(244, 244, 244); padding: 13px 0px 0px 17px; height: 27px; color: rgb(34, 34, 34); display: block;
+}
+.nomal_layer .wrap .list {
+	-ms-overflow-x: hidden; -ms-overflow-y: auto; min-height: 50px; max-height: 210px;
+}
+.nomal_layer .wrap .list table {
+	width: 250px;
+}
+.nomal_layer .wrap .list table tr td.strong {
+	text-align: left; font-weight: bold; border-left-color: currentColor; border-left-width: medium; border-left-style: none;
+}
+.nomal_layer .wrap .list table th {
+	padding: 0px 5px 0px 3px; text-align: left; color: rgb(68, 68, 68); font-size: 11px; border-bottom-color: rgb(232, 232, 232); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.nomal_layer .wrap .list table td {
+	padding: 8px 0px 8px 18px !important; height: 15px !important; color: rgb(102, 102, 102); font-size: 11px; border-bottom-color: rgb(232, 232, 232); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.nomal_layer .wrap .close {
+	background: url("../../img/btn/layer-close.png") no-repeat left top; top: 11px; width: 18px; height: 18px; right: 12px; text-indent: -9999px; display: block; position: absolute;
+}
+.normal_btn {
+	padding: 0px 10px !important; border: 1px solid rgb(219, 219, 219); border-image: none; width: auto; text-align: center; color: rgb(108, 108, 108); vertical-align: top; display: inline-block; cursor: pointer; box-sizing: border-box;
+}
+.normal_btn img {
+	margin: 0px 0px 0px 5px; vertical-align: middle;
+}
+.cart_cont_list > table .img {
+	margin: 0px 10px 0px 0px; border: 1px solid rgb(219, 219, 219); border-image: none; float: left;
+}
+.order_table_type .pick_add_cont .pick_add_plus {
+	padding: 0px 10px 0px 0px; width: 38px; vertical-align: middle; display: table-cell;
+}
+.order_table_type .pick_add_cont .pick_add_plus em {
+	background: rgb(149, 149, 149); padding: 1px 5px 3px; color: rgb(255, 255, 255); font-size: 11px;
+}
+.order_table_type .order_num_link {
+	color: rgb(50, 156, 255); font-weight: bold; border-bottom-color: rgb(50, 156, 255); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.order_table_type em + .btn_gray_list {
+	margin: 5px 0px 0px;
+}
+.order_table_type strong + .btn_gray_list {
+	margin: 5px 0px 0px;
+}
+.order_table_type .pick_add_cont .pick_option_box {
+	padding: 2px 0px 0px; width: 100%;
+}
+.order_table_type .pick_add_cont .pick_option_box .btn_gray_list {
+	margin: 5px 0px 0px;
+}
+.order_table_type thead .form_element {
+	height: 18px;
+}
+.order_table_type .td_chk .form_element {
+	height: 18px;
+}
+.order_table_type .form_element label.check_s {
+	padding: 0px 0px 0px 5px;
+}
+.order_table_type .td_chk {
+	vertical-align: middle;
+}
+.order_table_type .td_order_amount {
+	border-right-color: rgb(238, 238, 238); border-left-color: rgb(238, 238, 238); border-right-width: 1px; border-left-width: 1px; border-right-style: solid; border-left-style: solid;
+}
+.order_table_type .td_order_amount .order_goods_num {
+	width: 100%;
+}
+.order_table_type .td_order_amount .order_goods_num strong {
+	width: 100px; color: rgb(51, 51, 51); font-size: 13px; display: block;
+}
+.order_table_type .td_order_amount input {
+	width: 49px; height: 26px; text-align: center;
+}
+.order_table_type .td_order_amount .btn_gray_list {
+	margin: 5px 0px 0px; display: inline-block;
+}
+.order_table_type .td_delivery {
+	border-left-color: rgb(235, 235, 235); border-left-width: 1px; border-left-style: solid;
+}
+.order_table_type .td_benefit {
+	border-right-color: rgb(235, 235, 235); border-left-color: rgb(235, 235, 235); border-right-width: 1px; border-left-width: 1px; border-right-style: solid; border-left-style: solid;
+}
+.order_table_type .td_option {
+	padding: 5px 10px 14px; text-align: left;
+}
+.pick_add_list {
+	margin: 10px 5px 0px 0px; padding: 2px 0px 0px; border-top-color: rgb(219, 219, 219); border-top-width: 1px; border-top-style: dotted;
+}
+.pick_add_list .pick_add_cont {
+	margin: 6px 0px 0px;
+}
+.pick_add_list .pick_add_cont .pick_add_img {
+	vertical-align: top;
+}
+.pick_add_list .pick_add_cont .pick_add_info em {
+	font-weight: normal; display: inline-block;
+}
+.pick_add_list .pick_add_cont .pick_add_info em > a > img {
+	margin: 2px 0px 0px;
+}
+.pick_add_list .pick_add_cont .pick_add_info .chk_none {
+	margin: 0px;
+}
+.order_table_type tfoot td {
+	background: rgb(247, 247, 247); padding: 0px;
+}
+.order_table_type .price_sum {
+	border: 0px currentColor; border-image: none; margin-top: 0px;
+}
+.order_table_type .price_sum .price_shop_neme {
+	padding: 0px 0px 10px; font-size: 18px; float: left;
+}
+.order_table_type .price_sum_cont .price_sum_list dl {
+	font-size: 14px;
+}
+.order_table_type .price_sum_cont .price_sum_list dd strong {
+	font-size: 15px;
+}
+.order_table_type .price_sum_cont .price_sum_list .price_total dd {
+	font-size: 14px;
+}
+.price_sum {
+	margin: 30px 0px 0px; padding: 20px 40px 25px; border: 2px solid rgb(214, 214, 214); border-image: none;
+}
+.price_sum::after {
+	clear: both; display: block; content: "";
+}
+.price_sum_cont {
+	text-align: right; float: right; display: table;
+}
+.price_sum_cont .price_sum_list {
+	position: relative;
+}
+.price_sum_cont .price_sum_list dl {
+	padding: 5px 10px; text-align: right; font-size: 16px; display: table-cell;
+}
+.price_sum_cont .price_sum_list dt {
+	
+}
+.price_sum_cont .price_sum_list dd {
+	color: rgb(61, 92, 89);
+}
+.price_sum_cont .price_sum_list dd strong {
+	color: rgb(61, 92, 89); font-size: 18px; font-weight: 700;
+}
+.price_sum_cont .price_sum_list .price_total {
+	padding-right: 0px;
+}
+.price_sum_cont .price_sum_list .price_total dd {
+	font-size: 20px;
+}
+.price_sum_cont .price_sum_list span {
+	padding: 0px 15px; text-align: center; vertical-align: middle; display: table-cell;
+}
+.price_sum_cont .tobe_mileage {
+	width: 100%; display: block;
+}
+.btn_order_box {
+	padding: 30px 0px 0px; text-align: right; overflow: hidden;
+}
+.btn_order_box .btn_left_box {
+	float: left;
+}
+.btn_order_box .btn_right_box {
+	float: right;
+}
+.btn_order_box + .chk_none {
+	float: right; display: inline-block;
+}
+.pay_box {
+	margin: 10px 0px; width: 100%; text-align: right; float: left; display: block;
+}
+.pay_box .payco_pay {
+	margin: 0px 0px 0px 10px; vertical-align: top; display: inline-block;
+}
+.pay_box .naver_pay {
+	margin: 0px 0px 0px 10px; vertical-align: top; display: inline-block;
+}
+.order_view_info h4 {
+	margin: 50px 0px 0px;
+}
+.order_cont .table_left th {
+	padding: 15px 10px 14px 30px;
+}
+.order_cont .member_email select {
+	width: 120px;
+}
+.order_cont input[type='text'] {
+	width: 220px;
+}
+.order_freebie {
+	
+}
+.order_freebie .order_zone_tit {
+	margin: 50px 0px 0px; border-bottom-color: rgb(113, 113, 113); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.order_freebie_list {
+	
+}
+.order_freebie_list dl {
+	font-size: 0px; vertical-align: top; border-top-color: rgb(219, 219, 219); border-bottom-color: rgb(219, 219, 219); border-top-width: 1px; border-bottom-width: 1px; border-top-style: solid; border-bottom-style: solid;
+}
+.order_freebie_list dt {
+	padding: 20px 10px 10px 0px; width: 150px; text-align: center; font-size: 12px; vertical-align: top; display: inline-block;
+}
+.order_freebie_list dt span {
+	display: block;
+}
+.order_freebie_list dd {
+	padding: 0px 0px 0px 20px; width: auto; font-size: 12px; border-left-color: rgb(219, 219, 219); border-left-width: 1px; border-left-style: solid; display: inline-block;
+}
+.order_freebie_list dd .form_element {
+	border-top-color: currentColor; border-top-width: 0px; border-top-style: none; display: inline-block;
+}
+.order_freebie_list dd .form_element ul {
+	width: auto;
+}
+.order_freebie_list dl + dl {
+	margin-top: -1px;
+}
+.order_freebie_list .form_element {
+	padding: 10px 0px 0px; border-top-color: rgb(219, 219, 219); border-top-width: 1px; border-top-style: solid; display: block;
+}
+.order_freebie_list ul {
+	width: 100%; font-size: 0px; display: inline-block;
+}
+.order_freebie_list ul li {
+	padding: 0px 20px 20px 0px; width: 100px; font-size: 12px; vertical-align: top; display: inline-block;
+}
+.order_freebie_list ul li b {
+	border: 1px solid rgb(255, 255, 255); border-image: none; width: 78px; height: 78px; overflow: hidden; display: block; cursor: default;
+}
+.order_freebie_list ul li b img {
+	border: 1px solid rgb(219, 219, 219); border-image: none; width: 76px; height: 76px;
+}
+.order_freebie_list ul li em {
+	padding: 5px 0px 0px; display: block;
+}
+.order_freebie_list ul li span {
+	font-size: 11px;
+}
+.order_freebie_list .form_element label {
+	width: 80px; height: 80px; text-align: center; position: relative; z-index: 1; cursor: pointer;
+}
+.order_freebie_list .form_element label span {
+	display: block;
+}
+.order_freebie_list .form_element label.on b {
+	border: 1px solid rgb(62, 61, 60); border-image: none;
+}
+.order_freebie_list .form_element label.on b img {
+	border: 1px solid rgb(62, 61, 60); border-image: none;
+}
+.order_freebie_list .form_element label.on em {
+	font-weight: bold;
+}
+.order_freebie_list .form_element label.check_s {
+	background: 0px; padding-left: 0px;
+}
+.order_freebie_list .form_element label:hover .icon_freebie_check {
+	background: url("../../img/order/icon_freebie_check.png") no-repeat 50% rgba(255, 255, 255, 0.6); left: 2px; top: 2px; width: 76px; height: 76px; position: absolute;
+}
+.order_freebie_list .form_element label.on .icon_freebie_check {
+	background: url("../../img/order/icon_freebie_check.png") no-repeat 50% rgba(255, 255, 255, 0.6); left: 2px; top: 2px; width: 76px; height: 76px; position: absolute;
+}
+.order_agree {
+	margin: 50px 0px 0px; padding: 10px 20px; border: 1px solid rgb(219, 219, 219); border-image: none;
+}
+.order_agree h4 {
+	margin-top: 0px;
+}
+.order_agree_cont .agreement_box {
+	border-width: 1px; border-style: solid; border-color: rgb(153, 153, 153) rgb(230, 230, 230) rgb(230, 230, 230); margin: 0px 0px 10px; padding: 20px; border-image: none; height: 60px; line-height: 18px; -ms-overflow-x: hidden; -ms-overflow-y: auto;
+}
+.order_agree_cont strong {
+	color: rgb(171, 62, 85);
+}
+.order_cont table ul {
+	vertical-align: middle; display: inline-block;
+}
+.order_cont table li {
+	padding: 0px 30px 0px 0px; display: inline-block;
+}
+.order_cont table ul .btn_gray_list {
+	display: inline-block;
+}
+#contents .member_address .address_postcode {
+	overflow: hidden; position: relative;
+}
+#contents .member_address .address_postcode input {
+	float: left;
+}
+#contents .member_address .address_postcode .old_post_code {
+	left: 55px; top: 6px; color: rgb(51, 51, 51); position: absolute;
+}
+#contents .member_address .address_postcode .btn_post_search {
+	margin: 0px 0px 0px 5px; padding: 5px 10px; border-radius: 5px; border: 1px solid rgb(152, 152, 152); border-image: none; float: left;
+}
+#contents .member_address .address_input {
+	width: 98%; float: left;
+}
+#contents .member_address .address_input input:first-child {
+	width: 400px;
+}
+#contents .member_address .address_input input {
+	margin: 10px 0px 0px; width: 250px;
+}
+.td_last_say input[type='text'] {
+	width: 90%;
+}
+.order_cont .order_table_type .form_element label.check_s {
+	padding-left: 22px;
+}
+.order_cont .order_table_type .member_info_delivery em {
+	color: rgb(50, 156, 255);
+}
+.order_cont .order_table_type .member_info_apply span {
+	color: rgb(151, 151, 151);
+}
+.order_cont .addition_info {
+	
+}
+.order_cont .addition_info td {
+	padding-right: 30px; padding-left: 30px;
+}
+.order_payment_sum {
+	color: rgb(68, 68, 68); font-size: 18px;
+}
+.order_cont .order_benefit_list {
+	color: rgb(51, 51, 51);
+}
+.order_cont .order_benefit_list li {
+	display: block;
+}
+.order_cont .order_benefit_list li span {
+	color: rgb(119, 119, 119);
+}
+.order_cont .order_benefit_list .order_benefit_sale {
+	padding: 0px 0px 5px;
+}
+.order_cont .order_benefit_list .order_benefit_mileage {
+	
+}
+.order_cont .order_benefit_list .order_benefit_sale em {
+	background: url("../../img/icon/goods_icon/icon_discount.gif") no-repeat 0px 0px; padding: 0px 5px 3px 20px;
+}
+.order_cont .order_benefit_list .order_benefit_mileage em {
+	background: url("../../img/icon/goods_icon/icon_mileage.gif") no-repeat 0px 0px; padding: 0px 5px 3px 20px;
+}
+.order_cont .table_left tr td .add_currency {
+	color: rgb(113, 113, 113);
+}
+.order_money_use {
+	
+}
+.order_money_use > b {
+	font-weight: normal;
+}
+.order_money_use > b input[type='text'] {
+	text-align: right;
+}
+.order_money_use .form_element {
+	padding: 0px 0px 0px 10px; vertical-align: middle;
+}
+.order_money_use .money_use_sum {
+	color: rgb(50, 156, 255);
+}
+.order_money_use .money_use_txt {
+	padding: 5px 0px 0px; color: rgb(50, 156, 255); display: block;
+}
+.payment_progress {
+	
+}
+.payment_progress .order_zone_tit > p {
+	padding: 2px 0px 0px; color: rgb(61, 92, 89); font-size: 12px;
+}
+.payment_progress_list {
+	padding: 10px 0px; border-top-color: rgb(153, 153, 153); border-top-width: 1px; border-top-style: solid;
+}
+.payment_progress_list dl {
+	padding: 20px 0px 15px; font-size: 0px; vertical-align: top; border-bottom-color: rgb(219, 219, 219); border-bottom-width: 1px; border-bottom-style: solid; display: block;
+}
+.payment_progress_list dt {
+	padding: 0px 0px 0px 24px; width: 180px; font-size: 13px; font-weight: bold; vertical-align: top; display: inline-block;
+}
+.payment_progress_list dd {
+	font-size: 12px; display: inline-block;
+}
+.payment_progress_cont {
+	
+}
+.payment_progress .payment_progress_select {
+	font-size: 0px;
+}
+.payment_progress .payment_progress_select li {
+	margin: 0px 30px 0px 0px; font-size: 12px; display: inline-block;
+}
+.payco_payment {
+	margin-top: -10px;
+}
+.payco_payment dl {
+	background: rgb(249, 249, 249); padding: 30px 0px 25px;
+}
+.payco_payment dt {
+	width: 100%; display: block;
+}
+.payco_payment dd {
+	padding: 20px 0px 0px; display: block;
+}
+.payco_payment ul {
+	font-size: 0px; display: inline-block;
+}
+.payco_payment li {
+	display: inline-block;
+}
+.payco_payment .form_element label {
+	display: block; cursor: pointer;
+}
+.payco_payment .form_element label.choice_payco {
+	background: url("../../img/order/payco_radio_off.png") no-repeat 65px 85px; padding: 0px 0px 30px 22px; min-width: 13px;
+}
+.payco_payment .form_element label.choice_payco:hover {
+	background: url("../../img/order/payco_radio_over.png") no-repeat 65px 85px;
+}
+.payco_payment .form_element label.choice_payco.on {
+	background: url("../../img/order/payco_radio_on.png") no-repeat 65px 85px;
+}
+.payco_payment .form_element label.choice_payco span {
+	width: 100px; height: 74px; overflow: hidden; display: block; cursor: default;
+}
+.payco_payment .form_element label.choice_payco.on span img {
+	margin-top: -75px;
+}
+.general_payment {
+	
+}
+.general_payment dd {
+	min-width: 520px;
+}
+.pay_bankbook_box {
+	margin: 10px 0px 0px; padding: 10px 0px 0px; border-top-color: rgb(219, 219, 219); border-top-width: 1px; border-top-style: dotted;
+}
+.pay_bankbook_box .form_element {
+	width: 100%;
+}
+.pay_bankbook_box .pay_bankbook_txt {
+	color: rgb(119, 119, 119);
+}
+.pay_bankbook_box ul {
+	padding: 10px 0px;
+}
+.pay_bankbook_box ul li {
+	padding: 10px 0px;
+}
+.pay_bankbook_box ul li strong {
+	width: 70px; display: inline-block;
+}
+.pay_bankbook_box ul li select {
+	width: 350px; margin-top: -5px;
+}
+#wrap .pay_bankbook_box .chosen-container {
+	vertical-align: middle;
+}
+.escrow_payment {
+	
+}
+.pg_payment {
+	
+}
+.pg_payment dd {
+	min-width: 520px;
+}
+.pay_pg_box {
+	margin: 10px 0px 0px; padding: 10px 0px 0px; border-top-color: rgb(219, 219, 219); border-top-width: 1px; border-top-style: dotted;
+}
+.pay_pg_box .form_element {
+	width: 100%;
+}
+.pay_pg_box ul {
+	padding: 0px 0px 10px;
+}
+.pay_pg_box ul li {
+	padding: 10px 0px;
+}
+.pay_pg_box ul li strong {
+	width: 160px; display: inline-block;
+}
+.pay_pg_box ul li select {
+	width: 350px; margin-top: -5px;
+}
+#wrap .pay_pg_box .chosen-container {
+	vertical-align: middle;
+}
+.cash_tax_get {
+	
+}
+.cash_tax_get > dl {
+	background: rgb(249, 249, 249);
+}
+.cash_tax_get .btn_reset {
+	background: rgb(255, 255, 255); margin: 0px 0px 0px 10px; padding: 2px 7px; border: 1px solid rgb(152, 152, 152); border-image: none; display: inline-block;
+}
+.cash_receipt_box {
+	padding: 20px 0px; border-bottom-color: rgb(219, 219, 219); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.cash_receipt_box .form_element {
+	display: block;
+}
+.cash_receipt_box .payment_progress_select {
+	padding: 0px 0px 20px 24px; font-size: 0px; border-bottom-color: rgb(219, 219, 219); border-bottom-width: 1px; border-bottom-style: dotted; display: block;
+}
+.cash_receipt_box .cash_receipt_list dl {
+	padding: 20px 0px 0px; font-size: 0px; border-bottom-color: currentColor; border-bottom-width: 0px; border-bottom-style: none; display: block;
+}
+.cash_receipt_box .cash_receipt_list dt {
+	padding: 5px 0px 0px 24px; width: 117px; font-size: 12px; font-weight: bold; display: inline-block;
+}
+.cash_receipt_box .cash_receipt_list dd {
+	font-size: 12px; display: inline-block;
+}
+.tax_invoice_box {
+	padding: 20px 0px; border-bottom-color: rgb(219, 219, 219); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.tax_invoice_box .order_table_type {
+	
+}
+.tax_invoice_box .order_table_type .table_left {
+	width: 70%; border-top-color: currentColor; border-top-width: 0px; border-top-style: none;
+}
+.tax_invoice_box .order_table_type th {
+	background: rgb(255, 255, 255); padding: 16px 10px 10px 24px; vertical-align: top; border-bottom-color: currentColor; border-bottom-width: 0px; border-bottom-style: none;
+}
+.tax_invoice_box .order_table_type td {
+	background: rgb(255, 255, 255); padding: 10px 10px 9px 15px; border-bottom-color: currentColor; border-bottom-width: 0px; border-bottom-style: none;
+}
+.tax_invoice_box .order_table_type .cash_receipt_email select {
+	width: 140px;
+}
+.payment_final {
+	margin: 30px 0px 0px;
+}
+.payment_final_total {
+	padding: 13px 46px 20px 0px; border: 2px solid rgb(214, 214, 214); border-image: none; text-align: right;
+}
+.payment_final_total dl {
+	font-size: 0px; display: inline-block;
+}
+.payment_final_total dt {
+	padding: 0px 15px 0px 0px; font-size: 14px; font-weight: bold; display: inline-block;
+}
+.payment_final_total dd {
+	color: rgb(61, 92, 89); font-size: 30px; display: inline-block;
+}
+.payment_final .payment_final_check {
+	padding: 30px 0px 20px; text-align: center;
+}
+.payment_final .payment_final_check {
+	
+}
+.payment_final .form_element label.check_s em b {
+	color: rgb(61, 92, 89);
+}
+.order_end {
+	
+}
+.order_end_completion {
+	padding: 40px 0px; text-align: center;
+}
+.order_end_completion p {
+	padding: 15px 0px 0px; line-height: 2;
+}
+.order_end_completion strong {
+	font-size: 22px;
+}
+.order_end_completion em {
+	font-size: 14px;
+}
+.order_end .order_table_type {
+	margin: 0px 0px 50px;
+}
+.pay_with_list {
+	color: rgb(51, 51, 51);
+}
+.pay_with_list > strong {
+	font-size: 13px; display: block;
+}
+.pay_with_list ul {
+	margin: 5px 0px 0px;
+}
+.pay_with_list ul li {
+	padding: 2px 0px; display: block;
+}
+.pay_with_list .deposit_money {
+	
+}
+.goods_coupon_box .fc_red {
+	color: rgb(250, 40, 40) !important;
+}
+.goods_coupon_box .fc_blue {
+	color: rgb(48, 48, 248) !important;
+}
+.goods_coupon_box .pick_add_plus {
+	padding: 0px 10px 0px 0px; width: 38px; vertical-align: middle; display: table-cell;
+}
+.goods_coupon_box .pick_add_plus em {
+	background: rgb(149, 149, 149); padding: 1px 5px 3px; color: rgb(255, 255, 255); font_size: 11px;
+}

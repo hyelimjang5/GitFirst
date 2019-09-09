@@ -1,0 +1,30 @@
+.chose-image {
+	padding: 2px 5px 3px 0px; width: 55px; vertical-align: middle; max-height: 55px;
+}
+.chose-image.rtl {
+	padding: 2px 0px 3px 5px;
+}
+.chose-image-small {
+	margin: -3px 0px 0px; padding: 0px 3px 0px 0px; width: 31px; vertical-align: middle; max-height: 31px;
+}
+.chose-image-small.rtl {
+	padding: 0px 0px 0px 3px;
+}
+.chose-image-list {
+	margin: -3px 5px 0px 0px; border: 1px solid rgb(204, 204, 204); border-image: none; width: 31px; height: 31px; vertical-align: middle;
+}
+.chose-image-list.rtl {
+	padding: 0px 0px 0px 3px;
+}
+.chosen-container-multi .result-selected img {
+	opacity: 0.3;
+}
+.mall-select .chose-image {
+	padding: 2px 5px 3px 0px; vertical-align: middle; max-height: 55px; max-width: 55px;
+}
+.mall-select .chose-image-small {
+	margin: -3px 0px 0px; padding: 0px 3px 0px 0px; width: auto; vertical-align: middle; max-height: 31px; max-width: 31px;
+}
+.mall-select .chose-image-list {
+	margin: -3px 5px 0px 0px; width: auto; height: auto; vertical-align: middle; max-height: 31px; max-width: 31px;
+}

@@ -1,0 +1,1119 @@
+.board_zone_sec .btn_center_box {
+	margin: 30px 0px 0px;
+}
+.board_zone_view + .btn_right_box {
+	margin: 10px 0px 0px;
+}
+.btn_board_search {
+	background: rgb(61, 92, 89); margin: 0px 0px 0px 5px; padding: 0px 15px; border-radius: 5px; border: 1px solid rgb(61, 92, 89); border-image: none; height: 31px; color: rgb(255, 255, 255); line-height: 29px;
+}
+.btn_board_search:hover {
+	background: rgb(61, 92, 89); border: 1px solid rgb(61, 92, 89); border-image: none;
+}
+.btn_board_search em {
+	font-weight: bold;
+}
+.btn_before {
+	padding: 0px 5px; border-radius: 10px; border: 1px solid rgb(61, 92, 89); border-image: none; width: 100px; height: 42px; text-align: center; color: rgb(61, 92, 89); font-size: 14px; display: inline-block; cursor: pointer;
+}
+.btn_before:hover {
+	border: 1px solid rgb(61, 92, 89); border-image: none; color: rgb(61, 92, 89);
+}
+.btn_write_ok {
+	background: rgb(61, 92, 89); padding: 0px 10px; border-radius: 10px; border: 1px solid rgb(61, 92, 89); border-image: none; width: 100px; height: 42px; text-align: center; color: rgb(255, 255, 255); font-size: 14px; display: inline-block; cursor: pointer;
+}
+.btn_write_ok:hover {
+	background: rgb(61, 92, 89); border: 1px solid rgb(61, 92, 89); border-image: none;
+}
+.btn_goods_select {
+	background: rgb(151, 151, 151); margin: 0px 0px 0px 5px; border: 1px solid rgb(151, 151, 151); border-image: none; width: 80px; height: 26px; text-align: center; color: rgb(255, 255, 255); line-height: 24px; font-size: 12px; vertical-align: middle; display: inline-block;
+}
+.btn_goods_select:hover {
+	background: rgb(98, 98, 98); border: 1px solid rgb(98, 98, 98); border-image: none;
+}
+.btn_goods_item_del {
+	top: 3px; right: -30px; position: absolute;
+}
+.btn_comment_best {
+	background: rgb(171, 62, 85); margin: 0px 0px 0px 10px; padding: 1px 5px 2px; border: 1px solid rgb(171, 62, 85); border-image: none; text-align: center; color: rgb(255, 255, 255); font-size: 11px; display: inline-block; min-width: 50px;
+}
+.btn_comment_best:hover {
+	background: rgb(155, 52, 74); border: 1px solid rgb(155, 52, 74); border-image: none;
+}
+.btn_board_del {
+	margin: 0px 0px 0px 5px; padding: 0px 12px; border-radius: 5px; border: 1px solid rgb(163, 163, 163); border-image: none; height: 28px; text-align: center; color: rgb(102, 102, 102); line-height: 26px;
+}
+.btn_board_edit {
+	margin: 0px 0px 0px 5px; padding: 0px 12px; border-radius: 5px; border: 1px solid rgb(163, 163, 163); border-image: none; height: 28px; text-align: center; color: rgb(102, 102, 102); line-height: 26px;
+}
+.btn_board_reply {
+	margin: 0px 0px 0px 5px; padding: 0px 12px; border-radius: 5px; border: 1px solid rgb(163, 163, 163); border-image: none; height: 28px; text-align: center; color: rgb(102, 102, 102); line-height: 26px;
+}
+.btn_board_list {
+	margin: 0px 0px 0px 5px; padding: 0px 12px; border-radius: 5px; border: 1px solid rgb(163, 163, 163); border-image: none; height: 28px; text-align: center; color: rgb(102, 102, 102); line-height: 26px;
+}
+.btn_board_del:hover {
+	border: 1px solid rgb(51, 51, 51); border-image: none;
+}
+.btn_board_edit:hover {
+	border: 1px solid rgb(51, 51, 51); border-image: none;
+}
+.btn_board_reply:hover {
+	border: 1px solid rgb(51, 51, 51); border-image: none;
+}
+.btn_board_list:hover {
+	border: 1px solid rgb(51, 51, 51); border-image: none;
+}
+.btn_write {
+	background: rgb(61, 92, 89); margin: 0px 0px 0px 5px; padding: 0px 10px; border-radius: 5px; border: 1px solid rgb(61, 92, 89); border-image: none; top: 15px; height: 31px; text-align: center; right: 0px; color: rgb(255, 255, 255); line-height: 29px; font-size: 12px; vertical-align: middle; display: inline-block; position: absolute; min-width: 90px;
+}
+.btn_write:hover {
+	background: rgb(61, 92, 89); border: 1px solid rgb(61, 92, 89); border-image: none;
+}
+.btn_date_check {
+	background: rgb(61, 92, 89); border-radius: 5px; border: 1px solid rgb(61, 92, 89); border-image: none; height: 31px; text-align: center; color: rgb(255, 255, 255); font-weight: bold; display: inline-block; min-width: 100px;
+}
+.btn_date_check em {
+	background-position: right 3px; padding: 0px 20px 0px 0px; background-image: url("../../img/common/btn/btn_goods_search.png"); background-repeat: no-repeat;
+}
+.board_name_day {
+	margin: 5px 0px 3px;
+}
+.board_name {
+	padding: 0px 3px 0px 0px; display: inline-block;
+}
+.board_day {
+	padding: 0px 5px; height: 11px; font-size: 11px; vertical-align: middle; border-left-color: rgb(204, 204, 204); border-left-width: 1px; border-left-style: solid; display: inline-block;
+}
+.board_day span {
+	top: -3px; position: relative;
+}
+.board_likeit_hits {
+	color: rgb(178, 178, 178); font-size: 11px;
+}
+.board_likeit {
+	margin: 0px 10px 0px 0px; display: inline-block;
+}
+.board_hits {
+	display: inline-block;
+}
+.board_event_day {
+	margin: 5px 0px 3px;
+}
+.board_zone_cont .rating_star_list {
+	margin: 6px 0px 0px;
+}
+.board_zone_cont .rating_star_list li {
+	margin: 0px 10px 0px 0px; display: inline-block;
+}
+.board_zone_cont .rating_star {
+	background: url("../../img/icon/board/icon_star_bg.png") no-repeat left top; width: 88px; height: 15px; text-indent: -9999px; vertical-align: middle; display: inline-block;
+}
+.board_zone_cont .rating_star span {
+	background: url("../../img/icon/board/icon_star_fill.png") no-repeat left top; display: block;
+}
+.board_search_box {
+	background: rgb(247, 247, 247); margin: 60px 0px 30px; padding: 10px; text-align: center; border-top-color: rgb(232, 232, 232); border-bottom-color: rgb(232, 232, 232); border-top-width: 1px; border-bottom-width: 1px; border-top-style: solid; border-bottom-style: solid;
+}
+.board_search_box select {
+	width: 90px;
+}
+.date_check_box {
+	margin: 0px 0px 35px; padding: 20px 20px 20px 30px; border: 3px solid rgb(238, 238, 238); border-image: none;
+}
+.date_check_box::after {
+	clear: both; display: block; content: "";
+}
+.date_check_box h3 {
+	padding: 6px 15px 0px 0px; color: rgb(119, 119, 119); font-size: 13px; float: left;
+}
+.date_check_list {
+	float: left;
+}
+.date_check_list button {
+	margin: 0px 0px 0px -1px; border: 1px solid rgb(214, 214, 214); border-image: none; width: 54px; height: 31px; color: rgb(119, 119, 119); font-size: 12px; float: left;
+}
+.date_check_list button:hover {
+	background: rgb(174, 174, 174); color: rgb(255, 255, 255);
+}
+.date_check_list button.on {
+	background: rgb(174, 174, 174); color: rgb(255, 255, 255);
+}
+.date_check_calendar {
+	margin: 0px 10px; float: left; position: relative;
+}
+.date_check_calendar .anniversary {
+	background: url("../../img/member/icon_calendar.png") no-repeat right;
+}
+.board_zone_sec {
+	position: relative;
+}
+.board_zone_tit {
+	margin: 0px 0px 10px; padding: 0px 0px 10px; font-size: 16px;
+}
+.board_zone_cont {
+	
+}
+.board_zone_sec + .board_zone_cont {
+	margin: 70px 0px 0px;
+}
+.board_zone_cont + .board_zone_cont {
+	margin: 70px 0px 0px;
+}
+.board_zone_cont + .board_zone_tit {
+	margin: 70px 0px 30px; padding: 0px 0px 20px; border-bottom-color: rgb(60, 60, 60); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.board_list_table {
+	border-width: 1px 0px 0px; border-style: solid none none; border-color: rgb(153, 153, 153) currentColor currentColor; margin: 0px 0px 20px; border-image: none; width: 100%; text-align: center; border-collapse: collapse; border-spacing: 0;
+}
+.board_list_table th {
+	background: rgb(251, 251, 251); padding: 10px 10px 10px 14px; border-bottom-color: rgb(219, 219, 219); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.board_list_table td {
+	padding: 13px 10px 15px; border-bottom-color: rgb(219, 219, 219); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.board_list_table .board_img {
+	text-align: center; overflow: hidden; display: inline-block; position: relative;
+}
+.board_list_table .board_img a {
+	border: 1px solid rgb(235, 235, 235); border-image: none; height: 100%; vertical-align: middle; display: table-cell;
+}
+.board_list_table .board_tit {
+	text-align: left; vertical-align: middle;
+}
+.board_list_table .board_tit strong {
+	font-weight: normal;
+}
+.board_list_table .board_tit strong > span {
+	color: rgb(171, 62, 85);
+}
+.board_list_table .board_tit.on strong {
+	font-weight: bold;
+}
+.board_list_table .board_tit img {
+	margin: 0px 2px; vertical-align: middle;
+}
+.board_list_table .board_tit strong:hover {
+	text-decoration: underline;
+}
+.board_list_table .board_tit .reply {
+	
+}
+.board_list_table .board_tit .reply {
+	background: url("../../img/icon/board/icon_comment_reply.png") no-repeat 8px 4px; margin: 0px 0px 0px 15px; padding: 0px 0px 0px 20px;
+}
+.board_zone_list .notice_point {
+	background: rgb(247, 247, 247);
+}
+.board_zone_list .notice_point td {
+	background: rgb(247, 247, 247);
+}
+.board_list_gallery {
+	width: 100%; text-align: center; position: relative;
+}
+.board_list_gallery::after {
+	clear: both; display: block; content: "";
+}
+.board_list_gallery ul {
+	width: 100%; font-size: 0px; float: left;
+}
+.board_list_gallery ul li {
+	margin: 0px 0px 40px; text-align: center; font-size: 12px; display: inline-block; position: relative;
+}
+.board_list_gallery .gallery_cont {
+	padding: 0px 10px;
+}
+.board_list_gallery .board_img {
+	border: 1px solid rgb(235, 235, 235); border-image: none; width: 100%; text-align: center; overflow: hidden; display: table; position: relative; min-height: 200px;
+}
+.board_list_gallery .board_img a {
+	height: 100%; vertical-align: middle; display: table-cell;
+}
+.gallery_info_cont {
+	padding: 10px 0px 0px; text-align: left;
+}
+.gallery_info_cont .board_tit {
+	margin: 5px 0px 0px; text-align: left; vertical-align: middle;
+}
+.gallery_info_cont .board_tit em {
+	margin: 0px 0px 2px; display: block;
+}
+.gallery_info_cont .board_tit strong {
+	font-size: 13px;
+}
+.gallery_info_cont .board_tit a:hover strong {
+	text-decoration: underline;
+}
+.gallery_info_cont .board_tit img {
+	margin: 0px 2px; vertical-align: middle;
+}
+.board_list_event {
+	width: 100%; position: relative;
+}
+.board_list_event::after {
+	clear: both; display: block; content: "";
+}
+.board_list_event ul {
+	width: 100%; font-size: 0px;
+}
+.board_list_event ul::after {
+	clear: both; display: block; content: "";
+}
+.board_list_event ul li {
+	margin: 0px 0px 40px; width: 100%; text-align: left; font-size: 12px; display: inline-block; position: relative;
+}
+.board_list_event .event_cont {
+	display: table;
+}
+.board_list_event .board_img {
+	border: 1px solid rgb(235, 235, 235); border-image: none; width: auto; text-align: center; overflow: hidden; vertical-align: middle; display: table-cell; position: relative;
+}
+.board_list_event .board_img a {
+	
+}
+.board_list_event .event_info_cont {
+	padding: 0px 10px 0px 20px; display: inline-block;
+}
+.event_info_cont .board_tit {
+	margin: 5px 0px 0px; text-align: left; vertical-align: middle; display: table-cell;
+}
+.event_info_cont .board_tit em {
+	margin: 5px 0px 2px; display: block;
+}
+.event_info_cont .board_tit strong {
+	width: 87%; overflow: hidden; font-size: 13px;
+}
+.event_info_cont .board_tit a {
+	display: block;
+}
+.event_info_cont .board_tit a:hover strong {
+	text-decoration: underline;
+}
+.event_info_cont .board_tit img {
+	margin: 0px 2px; vertical-align: middle;
+}
+.event_info_cont .board_txt {
+	margin: 5px 0px; display: block;
+}
+.board_hot_list {
+	padding: 10px 0px 50px; text-align: left; font-size: 0px; border-top-color: rgb(60, 60, 60); border-top-width: 1px; border-top-style: solid;
+}
+.board_hot_list ul {
+	font-size: 12px; display: inline-block;
+}
+.board_hot_list ul li {
+	margin: 0px; width: auto; vertical-align: middle; display: inline-block;
+}
+.board_hot_list ul li.on {
+	font-weight: bold;
+}
+.board_hot_list ul li a {
+	padding: 0px 5px; height: 11px; border-left-color: rgb(204, 204, 204); border-left-width: 1px; border-left-style: solid; display: block;
+}
+.board_hot_list ul li a span {
+	top: -5px; position: relative;
+}
+.board_hot_list ul li a span:hover {
+	font-weight: bold; border-bottom-color: rgb(51, 51, 51); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.board_hot_list ul li:first-child a {
+	border-left-color: currentColor; border-left-width: 0px; border-left-style: none;
+}
+.board_list_qa {
+	
+}
+.board_zone_view {
+	
+}
+.board_write_box {
+	margin: 0px 10px 0px 0px; padding: 0px;
+}
+.board_write_table {
+	border-width: 1px 0px 0px; border-style: solid none none; border-color: rgb(153, 153, 153) currentColor currentColor; margin: 0px 0px 20px; border-image: none; width: 100%; border-collapse: collapse; border-spacing: 0;
+}
+.board_write_table th {
+	background: rgb(251, 251, 251); padding: 13px 0px 7px 25px; text-align: left; font-weight: bold; vertical-align: top; border-bottom-color: rgb(219, 219, 219); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.board_write_table td {
+	background: rgb(255, 255, 255); margin: 0px; padding: 7px 0px 7px 15px; height: 32px; border-bottom-color: rgb(219, 219, 219); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.board_write_table td > input {
+	width: 100%;
+}
+.board_write_box .category_select select {
+	width: 150px;
+}
+.board_write_box .write_title {
+	width: 90%;
+}
+.board_write_box .write_editor .form_element {
+	margin: 0px 0px 5px; display: block;
+}
+.board_write_agree {
+	margin: 0px 10px 0px 0px; padding: 0px 0px 10px;
+}
+.write_editor textarea {
+	width: 100%;
+}
+.no_data {
+	padding: 30px; text-align: center;
+}
+.board_cont {
+	
+}
+.board_view {
+	line-height: 1.8;
+}
+.board_view .img_attach {
+	margin: 10px 0px;
+}
+.btn_comment_ok {
+	background: rgb(199, 199, 199); padding: 0px 5px; border: 1px solid rgb(199, 199, 199); border-image: none; width: 82px; height: 82px; text-align: center; color: rgb(255, 255, 255); font-size: 12px; display: inline-block; cursor: pointer;
+}
+.board_view_attach {
+	padding: 15px 0px 0px; font-size: 0px;
+}
+.board_view_attach strong {
+	background: url("../../img/icon/board/icon_board_attach_file.png") no-repeat 0px 6px; padding: 0px 10px; font-size: 12px; display: inline-block;
+}
+.board_view_attach .attach_list {
+	font-size: 12px; display: inline-block;
+}
+.board_view_attach .attach_list a {
+	padding: 0px 5px;
+}
+.board_view_attach .attach_list a:hover {
+	text-decoration: underline;
+}
+.board_commen_agree {
+	margin: 10px 0px 0px; border-bottom-color: rgb(219, 219, 219); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.board_commen_agree h5 {
+	font-size: 12px;
+}
+.board_commen_agree .form_element {
+	display: block;
+}
+.board_commen_agree textarea {
+	margin: 10px 0px 0px; padding: 10px; width: 100%; display: inline-block;
+}
+.board_commen_agree .agree_choice_box {
+	padding: 10px 0px; color: rgb(119, 119, 119); font-size: 11px;
+}
+.board_commen_agree .link_agree_go {
+	font-size: 11px; text-decoration: underline;
+}
+.capcha {
+	margin: 10px 0px; display: table;
+}
+.capcha_img {
+	border: 1px solid rgb(214, 214, 214); border-image: none; width: 304px; height: 106px; text-align: center; vertical-align: middle; display: table-cell;
+}
+.capcha_txt {
+	padding: 0px 0px 0px 20px; display: table-cell;
+}
+.capcha_txt p {
+	margin: 0px 0px 10px;
+}
+.capcha_txt .btn_gray_list {
+	margin: 10px 0px 0px; display: block;
+}
+.board_goods_select {
+	margin: 1px 0px 0px;
+}
+.goods_select_item {
+	margin: 10px 0px 3px; padding: 10px 0px 0px; font-size: 0px; border-top-color: rgb(204, 204, 204); border-top-width: 1px; border-top-style: dotted;
+}
+.select_item_img {
+	width: 80px; height: auto; vertical-align: top; display: inline-block;
+}
+.select_item_img img {
+	border: 1px solid rgb(219, 219, 219); border-image: none; width: 100%; vertical-align: middle;
+}
+.select_item_info {
+	padding: 0px 0px 0px 10px; font-size: 12px; display: inline-block; position: relative;
+}
+.select_item_info em {
+	display: block;
+}
+.select_item_info .text_type_cont {
+	padding: 3px 0px; color: rgb(169, 169, 169); line-height: 1; font-size: 11px; display: block;
+}
+.board_view_tit {
+	background: rgb(247, 247, 247); padding: 15px; overflow: hidden; border-top-color: rgb(153, 153, 153); border-bottom-color: rgb(219, 219, 219); border-top-width: 1px; border-bottom-width: 1px; border-top-style: solid; border-bottom-style: solid;
+}
+.board_view_tit h3 {
+	color: rgb(17, 17, 17); font-size: 14px; display: inline-block;
+}
+.board_view_tit strong {
+	font-size: 14px; float: right;
+}
+.board_zone_view .board_view_info {
+	padding: 10px 15px; overflow: hidden; border-bottom-color: rgb(219, 219, 219); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.board_view_info .view_info_idip {
+	display: inline-block;
+}
+.board_view_info .view_info_idip em {
+	color: rgb(172, 172, 172); font-size: 11px;
+}
+.board_view_info .view_info_day {
+	margin: 0px 0px 0px 7px; height: 10px; font-size: 11px; vertical-align: middle; border-left-color: rgb(219, 219, 219); border-left-width: 1px; border-left-style: solid; display: inline-block;
+}
+.board_view_info .view_info_day em {
+	padding: 0px 0px 0px 10px; top: -3px; display: block; position: relative;
+}
+.board_view_info .view_info_hits {
+	text-align: right; float: right; display: inline-block;
+}
+.board_zone_view .board_view_event_day {
+	padding: 10px 15px; overflow: hidden; border-bottom-color: rgb(219, 219, 219); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.board_zone_view .board_view_attach {
+	padding: 10px 15px; overflow: hidden; border-bottom-color: rgb(219, 219, 219); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.board_zone_view .board_view_link {
+	padding: 10px 15px; overflow: hidden; border-bottom-color: rgb(219, 219, 219); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.board_view_link a:hover {
+	text-decoration: underline;
+}
+.board_view_content {
+	min-height: 350px;
+}
+.board_view_content img {
+	max-width: 100%;
+}
+.board_view_content .seem_cont {
+	padding: 30px 15px; line-height: 1.8;
+}
+.view_goods_select {
+	margin: 1px 0px 0px;
+}
+.view_goods_select_item {
+	margin: 10px 0px 3px; padding: 20px 20px 30px; font-size: 0px; border-bottom-color: rgb(219, 219, 219); border-bottom-width: 1px; border-bottom-style: dotted;
+}
+.view_select_item_img {
+	width: 120px; height: auto; vertical-align: top; display: inline-block;
+}
+.view_select_item_img img {
+	border: 1px solid rgb(219, 219, 219); border-image: none; width: 100%; vertical-align: middle;
+}
+.view_select_item_info {
+	padding: 0px 0px 0px 20px; font-size: 14px; display: inline-block; position: relative;
+}
+.view_select_item_info em {
+	font-weight: bold; display: block;
+}
+.view_select_item_info .text_type_cont {
+	padding: 3px 0px; color: rgb(169, 169, 169); line-height: 1; font-size: 12px; display: block;
+}
+.view_select_item_info > strong {
+	padding: 5px 0px 0px; color: rgb(171, 62, 85); font-size: 12px; display: block;
+}
+.board_view_comment {
+	padding: 10px 0px;
+}
+.view_comment {
+	background: rgb(255, 255, 255); padding: 0px; border-bottom-color: rgb(219, 219, 219); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.view_comment_top {
+	padding: 15px 20px; overflow: hidden; border-top-color: rgb(219, 219, 219); border-bottom-color: rgb(219, 219, 219); border-top-width: 1px; border-bottom-width: 1px; border-top-style: solid; border-bottom-style: solid;
+}
+.view_comment_top .comment_num {
+	padding: 0px 20px 0px 0px;
+}
+.view_comment_top .comment_best_num {
+	
+}
+.view_comment_top .btn_view_comment_box {
+	float: right;
+}
+.view_comment_top .rating_star_box {
+	margin: 0px 0px 0px 20px;
+}
+.view_comment_top .rating_star_box .rating_star {
+	margin: -5px 0px 0px 5px;
+}
+.view_comment_list {
+	background: rgb(248, 248, 248); padding: 0px 20px;
+}
+.view_comment_list ul {
+	
+}
+.view_comment_list ul li {
+	padding: 15px 0px; border-top-color: rgb(219, 219, 219); border-top-width: 1px; border-top-style: solid;
+}
+.view_comment_list ul li:first-child {
+	border-top-color: rgb(219, 219, 219); border-top-width: 1px; border-top-style: solid;
+}
+.view_comment_list .comment_name {
+	padding: 0px 20px 0px 5px; color: rgb(68, 68, 68); -ms-word-wrap: break-word;
+}
+.view_comment_list p {
+	padding: 0px 0px 10px;
+}
+.view_comment_list p > em {
+	padding: 10px 10px 10px 5px; display: block;
+}
+.view_comment_list .board_comment_box {
+	margin: 10px 0px 0px; padding: 0px; border-top-color: rgb(219, 219, 219); border-bottom-color: currentColor; border-top-width: 1px; border-bottom-width: 0px; border-top-style: dotted; border-bottom-style: none;
+}
+.view_comment_list p > em img {
+	margin: 0px 4px 0px 2px; vertical-align: middle;
+}
+.view_comment_list .comment_reply {
+	padding: 15px 0px 15px 10px;
+}
+.view_comment_list .comment_reply .comment_name {
+	background: url("../../img/icon/board/icon_comment_reply.png") no-repeat 8px 4px; padding: 0px 20px;
+}
+.board_comment_box {
+	background: rgb(248, 248, 248); padding: 0px 20px 20px;
+}
+.board_day_time {
+	padding: 0px 5px; color: rgb(161, 161, 161); font-size: 11px; display: inline-block;
+}
+.board_comment_write {
+	padding: 15px 0px 0px; position: relative;
+}
+.board_comment_write input[type='text'] {
+	width: 105px; margin-bottom: 10px;
+}
+.board_comment_write input[type='password'] {
+	width: 152px; margin-bottom: 10px;
+}
+.board_comment_write .comment_textarea {
+	width: 100%; position: relative;
+}
+.board_comment_write textarea {
+	padding: 10px 95px 10px 10px; width: 100%; height: 82px; display: inline-block;
+}
+.board_comment_write .btn_comment_box {
+	background: rgb(248, 248, 248); padding: 0px 0px 0px 10px; top: 0px; right: 0px; border-left-color: rgb(214, 214, 214); border-left-width: 1px; border-left-style: solid; position: absolute;
+}
+.board_view_qa {
+	
+}
+.board_view_qa .seem_cont {
+	padding: 0px 15px;
+}
+.board_view_qa .view_question_box {
+	padding: 30px 0px 30px 40px; position: relative;
+}
+.board_view_qa .view_answer_box {
+	padding: 30px 0px 30px 40px; border-top-color: rgb(219, 219, 219); border-top-width: 1px; border-top-style: solid; position: relative;
+}
+.board_view_qa .view_question_tit {
+	left: 20px; top: 30px; color: rgb(51, 51, 51); font-family: arial; font-size: 24px; position: absolute;
+}
+.board_view_qa .view_answer_tit {
+	left: 20px; top: 30px; color: rgb(51, 51, 51); font-family: arial; font-size: 24px; position: absolute;
+}
+.view_answer_box .view_answer_info {
+	margin: 0px 0px 0px 10px; padding: 5px 0px 10px 5px; border-bottom-color: rgb(219, 219, 219); border-bottom-width: 1px; border-bottom-style: dotted;
+}
+.view_answer_box .view_answer_info > strong {
+	font-size: 14px; display: block;
+}
+.view_answer_box .view_answer_info .view_info_idip {
+	margin: 5px 0px 0px; display: inline-block;
+}
+.view_answer_box .view_answer_info .view_info_idip em {
+	color: rgb(172, 172, 172); font-size: 11px;
+}
+.view_answer_box .view_answer_info .view_info_day {
+	margin: 0px 0px 0px 7px; height: 10px; font-size: 11px; vertical-align: middle; border-left-color: rgb(219, 219, 219); border-left-width: 1px; border-left-style: solid; display: inline-block;
+}
+.view_answer_box .view_answer_info .view_info_day em {
+	padding: 0px 0px 0px 10px; top: -3px; display: block; position: relative;
+}
+.board_list_plus_review {
+	padding: 20px 0px 0px; border-top-color: rgb(219, 219, 219); border-top-width: 2px; border-top-style: solid; position: relative;
+}
+.board_list_plus_review::after {
+	clear: both; display: block; content: "";
+}
+.board_list_plus_review > ul {
+	width: 100%; font-size: 0px; float: left;
+}
+.board_list_plus_review > ul > li {
+	margin: 0px 0px 40px; text-align: center; font-size: 12px; vertical-align: top; display: inline-block; position: relative;
+}
+.board_list_plus_review .plus_review_cont {
+	margin: 0px 10px; padding: 0px; border: 1px solid rgb(219, 219, 219); border-image: none; overflow: hidden;
+}
+.board_list_plus_review .board_img {
+	border: 0px currentColor; border-image: none; width: 100%; text-align: center; overflow: hidden; display: table; position: relative;
+}
+.board_list_plus_review .board_img a {
+	height: 100%; vertical-align: middle; display: table-cell;
+}
+.plus_review_info_cont {
+	padding: 10px 0px 0px; text-align: left;
+}
+.plus_review_info_cont .board_tit {
+	margin: 5px 0px 0px; padding: 0px 15px; text-align: left; vertical-align: middle;
+}
+.plus_review_info_cont .board_tit strong {
+	font-size: 13px;
+}
+.plus_review_info_cont .board_tit img {
+	margin: 0px 2px; vertical-align: middle;
+}
+.plus_review_info_cont .board_review_list {
+	padding: 10px 15px 0px; vertical-align: top;
+}
+.plus_review_info_cont .board_review_list ul {
+	width: 100%; font-size: 0px;
+}
+.plus_review_info_cont .board_review_list ul li {
+	background: url("../../img/icon/board/icon_review.png") no-repeat 0px 4px; padding: 0px 0px 6px 25px; text-align: left; overflow: hidden; font-size: 12px;
+}
+.plus_review_info_cont .board_review_list ul li p {
+	width: 90%; height: 36px; overflow: hidden; -ms-text-overflow: ellipsis; -webkit-line-clamp: 2; -webkit-box-orient: vertical;
+}
+.plus_review_info_cont .board_review_list ul li .new::after {
+	margin: 0px 0px 0px 8px; content: url("../../img/icon/board/icon_board_new.png");
+}
+.plus_review_info_cont .board_review_num {
+	background: rgb(248, 248, 248); margin: 15px 0px 0px; padding: 12px 15px 10px; color: rgb(120, 120, 120); display: block;
+}
+.plus_review_info_cont .board_review_num em strong {
+	color: rgb(171, 62, 85); margin-right: 15px;
+}
+.plus_review_view {
+	background: rgb(255, 255, 255); margin: -21px 0px 0px;
+}
+.plus_review_view_list {
+	padding: 20px 0px; width: 100%; margin-top: -1px; border-top-color: rgb(219, 219, 219); border-bottom-color: rgb(219, 219, 219); border-top-width: 1px; border-bottom-width: 1px; border-top-style: solid; border-bottom-style: solid; display: table;
+}
+.plus_review_view_list.view_point_bg {
+	background: rgb(252, 252, 252);
+}
+.plus_review_view_list .goods_photo {
+	border: 1px solid rgb(219, 219, 219); border-image: none; width: 100px; height: 100px; display: block;
+}
+.plus_review_view_list .goods_photo img {
+	width: 100%; height: 100%;
+}
+.plus_review_view .star_day_name {
+	padding: 0px 20px; width: 15%; display: table-cell;
+}
+.plus_review_view .star_day_name strong {
+	color: rgb(255, 204, 0); font-size: 20px; display: block;
+}
+.plus_review_view .star_day_name span {
+	padding: 5px 0px; color: rgb(120, 120, 120); display: block;
+}
+.plus_review_view .option_text_file_box {
+	padding: 0px 20px 0px 10px; width: 85%; vertical-align: top; display: table-cell;
+}
+.plus_review_view .option_text_file_box .goods_tit {
+	padding: 0px 0px 10px; font-size: 13px; display: block;
+}
+.plus_review_view .option_text_file_box .option_list_cont {
+	background: rgb(248, 248, 248); padding: 20px; border-bottom-color: rgb(240, 240, 240); border-bottom-width: 1px; border-bottom-style: solid; display: block;
+}
+.plus_review_view .option_text_file_box .option_list_cont dl {
+	padding: 0px; width: 100%; font-size: 0px; display: block; min-height: 31px;
+}
+.plus_review_view .option_text_file_box .option_list_cont dt {
+	padding: 0px; width: 100px; color: rgb(72, 72, 72); font-size: 12px; font-weight: bold; vertical-align: middle; display: inline-block;
+}
+.plus_review_view .option_text_file_box .option_list_cont dd {
+	padding: 7px 0px 0px; height: 21px; font-size: 12px; vertical-align: middle; display: inline-block;
+}
+.plus_review_view .text_file_cont {
+	
+}
+.plus_review_view .text_file_cont .review_text {
+	margin: 15px 0px; min-height: 50px;
+}
+.plus_review_view .text_file_cont .review_text.reviews_new {
+	background: url("../../img/icon/board/icon_board_new.png") no-repeat left 5px; text-indent: 15px;
+}
+.plus_review_view .text_file_cont .btn_review_text_more {
+	margin: 0px 0px 0px 10px; color: rgb(72, 72, 72); font-size: 11px; border-bottom-color: rgb(72, 72, 72); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.plus_review_view .text_file_cont .btn_view_comment_box {
+	margin: 0px 0px 20px;
+}
+.plus_review_view .text_file_cont .file_upload_list {
+	
+}
+.plus_review_view .text_file_cont .file_upload_list {
+	font-size: 0px; float: none;
+}
+.plus_review_view .text_file_cont .file_upload_list ul {
+	
+}
+.plus_review_view .text_file_cont .file_upload_list ul li {
+	margin: 10px 8px 10px 0px; width: auto; height: auto; display: inline-block; position: relative;
+}
+.plus_review_view .text_file_cont .file_upload_list ul li img {
+	border: 1px solid rgb(219, 219, 219); border-image: none; width: 100px; height: 100px;
+}
+.plus_review_view .text_file_cont .file_upload_list .img_pr_zoom {
+	left: 0px; top: 102px; width: auto; height: auto; position: absolute; z-index: 999000; max-width: 600px;
+}
+.plus_review_view .review_comment_box {
+	display: block;
+}
+.plus_review_view .review_comment {
+	padding: 0px 0px 10px;
+}
+.plus_review_view .review_comment_top {
+	padding: 10px 0px; width: 100%; overflow: hidden; border-bottom-color: currentColor; border-bottom-width: 0px; border-bottom-style: none;
+}
+.plus_review_view .review_comment_top .comment_num {
+	padding: 0px 20px 0px 0px;
+}
+.plus_review_view .review_comment_top .comment_num strong {
+	border-bottom-color: rgb(51, 51, 51); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.plus_review_view .review_comment_top .comment_best_num {
+	color: rgb(171, 62, 85);
+}
+.plus_review_view .review_comment_top .btn_view_comment_box {
+	float: right;
+}
+.plus_review_view .review_comment_list {
+	
+}
+.plus_review_view .review_comment_list ul {
+	
+}
+.plus_review_view .review_comment_list ul li {
+	padding: 15px 0px; border-bottom-color: rgb(219, 219, 219); border-bottom-width: 1px; border-bottom-style: solid; position: relative;
+}
+.plus_review_view .review_comment_list ul li:first-child {
+	border-top-color: rgb(219, 219, 219); border-top-width: 1px; border-top-style: solid;
+}
+.plus_review_view .review_comment_list .comment_name {
+	padding: 0px 20px 0px 5px; color: rgb(68, 68, 68); -ms-word-wrap: break-word;
+}
+.plus_review_view .review_comment_list p {
+	padding: 0px;
+}
+.plus_review_view .review_comment_list p > em {
+	padding: 10px 10px 10px 5px; display: block;
+}
+.plus_review_view .review_comment_list .board_comment_box {
+	background: 0px; margin: 0px; padding: 0px; border-bottom-color: currentColor; border-bottom-width: 0px; border-bottom-style: none;
+}
+.plus_review_view .review_comment_list .board_day_time {
+	font-weight: normal;
+}
+.plus_review_view .review_comment_list .btn_right_box {
+	top: 15px; right: 5px; position: absolute;
+}
+.board_write_popup .top_item_photo_info {
+	padding: 0px 0px 15px; overflow: hidden;
+}
+.board_write_popup .item_photo_box {
+	border: 1px solid rgb(235, 235, 235); border-image: none; width: 92px; height: 92px; text-align: center; vertical-align: middle; float: left; display: table-cell; position: relative;
+}
+.board_write_popup .item_photo_box img {
+	width: 92px; height: 92px;
+}
+.board_write_popup .item_info_box {
+	padding: 0px 0px 0px 15px; width: 490px; float: left;
+}
+.board_write_popup .item_info_box h5 {
+	padding: 0px 0px 5px; font-size: 18px;
+}
+.board_write_popup .item_info_box em {
+	color: rgb(169, 169, 169);
+}
+.board_write_popup .ly_tit {
+	padding: 13px 15px 11px;
+}
+.board_write_popup .ly_tit h4 {
+	padding: 0px 30px 15px 0px; font-size: 18px; border-bottom-color: rgb(153, 153, 153); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.board_write_popup .ly_cont {
+	padding: 15px 15px 26px; min-height: 250px;
+}
+.board_write_popup .board_write_box {
+	margin: 10px 10px 0px 0px; padding: 0px 0px 10px; border-top-color: rgb(219, 219, 219); border-top-width: 1px; border-top-style: solid;
+}
+.board_write_popup .board_write_table {
+	margin: 0px 0px 20px; border: 0px currentColor; border-image: none; width: 100%; border-collapse: collapse; border-spacing: 0;
+}
+.board_write_popup .board_write_table th {
+	background: rgb(251, 251, 251); padding: 13px 0px 7px 25px; text-align: left; font-weight: bold; vertical-align: top; border-bottom-color: rgb(219, 219, 219); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.board_write_popup .board_write_table td {
+	background: rgb(255, 255, 255); margin: 0px; padding: 7px 0px 7px 15px; height: 32px; border-bottom-color: rgb(219, 219, 219); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.board_write_popup .board_write_table td > input {
+	width: 312px;
+}
+.board_write_popup .board_write_box .category_select select {
+	width: 150px;
+}
+.board_write_popup .board_write_box .write_title {
+	width: 90%;
+}
+.board_write_popup .board_write_box .wirte_editor .form_element {
+	margin: 0px 0px 5px;
+}
+.board_write_popup .board_wirte_agree {
+	margin: 0px 10px 0px 0px; padding: 0px 0px 10px;
+}
+.board_write_popup .board_write_box .rating_star_list {
+	margin: 6px 0px 0px;
+}
+.board_write_popup .board_write_box .rating_star_list li {
+	margin: 0px 10px 0px 0px; display: inline-block;
+}
+.board_write_popup .board_write_box .rating_star {
+	background: url("../../img/icon/board/icon_star_bg.png") no-repeat left top; width: 88px; height: 15px; text-indent: -9999px; vertical-align: middle; display: inline-block;
+}
+.board_write_popup .board_write_box .rating_star span {
+	background: url("../../img/icon/board/icon_star_fill.png") no-repeat left top; display: block;
+}
+.capcha {
+	padding: 10px 0px; display: table;
+}
+.capcha_img {
+	border: 1px solid rgb(214, 214, 214); border-image: none; width: 304px; height: 106px; text-align: center; vertical-align: middle; display: table-cell;
+}
+.capcha_txt {
+	padding: 0px 0px 0px 20px; display: table-cell;
+}
+.capcha_txt p {
+	margin: 0px 0px 10px;
+}
+.capcha_txt .btn_gray_list {
+	margin: 10px 0px 0px; display: block;
+}
+.layer_wrap.password_layer {
+	width: 307px;
+}
+.layer_wrap.password_layer .layer_wrap_cont {
+	border: 1px solid rgb(85, 85, 85); border-image: none;
+}
+.layer_wrap.password_layer .ly_tit h4 {
+	font-size: 14px;
+}
+.password_layer .ly_cont {
+	text-align: center; min-height: 50px;
+}
+.password_layer input {
+	margin: 15px 0px 0px; width: 200px;
+}
+.layer_wrap.add_goods_layer {
+	width: 791px;
+}
+.add_goods_layer .scroll_box {
+	padding: 0px 0px 30px; height: 250px; border-top-color: rgb(219, 219, 219); border-bottom-color: rgb(219, 219, 219); border-top-width: 1px; border-bottom-width: 1px; border-top-style: solid; border-bottom-style: solid;
+}
+.ly_date_list_box {
+	margin: 0px 0px 20px; padding: 20px 20px 20px 30px; border: 3px solid rgb(238, 238, 238); border-image: none;
+}
+.ly_date_list_box::after {
+	clear: both; display: block; content: "";
+}
+.ly_date_list_box + .btn_center_box {
+	margin: 0px 0px 20px;
+}
+.ly_date_check_list {
+	margin: 0px 0px 10px;
+}
+.ly_date_check_list h5 {
+	padding: 6px 15px 0px 0px; width: 67px; color: rgb(119, 119, 119); font-size: 13px; float: left;
+}
+.ly_date_check_list {
+	float: left;
+}
+.ly_date_check_list button {
+	margin: 0px 0px 0px -1px; border: 1px solid rgb(214, 214, 214); border-image: none; width: 54px; height: 31px; color: rgb(119, 119, 119); font-size: 12px; float: left;
+}
+.ly_date_check_list button:hover {
+	background: rgb(174, 174, 174); color: rgb(255, 255, 255);
+}
+.ly_date_check_list button.on {
+	background: rgb(174, 174, 174); color: rgb(255, 255, 255);
+}
+.ly_date_check_calendar {
+	margin: 0px 10px; float: left; position: relative;
+}
+.ly_date_check_calendar .anniversary {
+	background: url("../../img/member/icon_calendar.png") no-repeat right; width: 114px;
+}
+.ly_date_select_list {
+	margin: 0px 0px 10px;
+}
+.ly_date_select_list h5 {
+	padding: 6px 15px 0px 0px; width: 67px; color: rgb(119, 119, 119); font-size: 13px; float: left;
+}
+.ly_date_select_list select {
+	width: 140px; float: left;
+}
+.ly_date_select_list .select_box {
+	display: inline-block;
+}
+.ly_date_search_list {
+	
+}
+.ly_date_search_list::after {
+	clear: both; display: block; content: "";
+}
+.ly_date_search_list h5 {
+	padding: 6px 15px 0px 0px; width: 67px; color: rgb(119, 119, 119); font-size: 13px; float: left;
+}
+.ly_date_search_list select {
+	width: 140px;
+}
+.ly_date_search_list input[type='text'] {
+	width: 429px;
+}
+.add_goods_layer .pick_list_num {
+	padding: 20px 0px 10px; font-size: 14px; display: block;
+}
+.add_goods_layer .pick_list_num strong {
+	color: rgb(171, 62, 85);
+}
+.add_goods_layer .form_element {
+	margin: 0px 0px 0px 20px;
+}
+.add_goods_layer .form_element label > .pick_add_cont {
+	margin: 0px 0px 0px 30px;
+}
+.add_goods_layer .pick_add_cont {
+	display: table; position: relative;
+}
+.add_goods_layer .pick_add_cont .pick_add_img {
+	width: 38px; vertical-align: top; display: table-cell;
+}
+.add_goods_layer .pick_add_cont .pick_add_img img {
+	border: 1px solid rgb(219, 219, 219); border-image: none; width: 38px; vertical-align: middle;
+}
+.add_goods_layer .pick_add_cont .pick_add_info {
+	padding: 0px 0px 0px 10px; vertical-align: middle; display: table-cell;
+}
+.add_goods_layer .pick_add_cont .pick_add_info em {
+	font-weight: bold; display: block;
+}
+.add_goods_layer .pick_add_cont .text_type_cont {
+	padding: 3px 0px; color: rgb(169, 169, 169); line-height: 1; font-size: 11px; display: block;
+}
+.add_goods_layer .pick_add_cont .pick_add_plus {
+	background: rgb(149, 149, 149); margin: 15px 10px 0px; padding: 1px 5px 3px; color: rgb(255, 255, 255); font-size: 11px; display: inline-block;
+}
+.add_goods_layer .order_num_link {
+	color: rgb(50, 156, 255); border-bottom-color: rgb(50, 156, 255); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.input_wrap.ty3 {
+	padding: 10px; display: block; box-sizing: border-box; -webkit-box-sizing: border-box;
+}
+.input_wrap.ty3 .input_title {
+	color: rgb(51, 51, 51); padding-bottom: 10px; font-size: 14px; font-weight: bold; display: block;
+}
+.input_wrap.ty3 .input_content {
+	display: block;
+}
+.input_wrap.ty3 .input_content .textarea {
+	border: currentColor; border-image: none; width: 100%; height: 150px; font-size: 14px; resize: none;
+}
+.plus_review_view {
+	margin: 0px;
+}
+.plus_review_goods_search {
+	margin: 0px 0px 20px;
+}
+.plus_review_goods_search .plus_review_goods_option {
+	margin: 5px auto 0px; padding: 0px 19px; width: 1145px;
+}
+.plus_review_goods_search .plus_review_goods_option::after {
+	clear: both; display: block; content: "";
+}
+.plus_review_goods_search .plus_review_goods_option > * {
+	margin: 0px 0px 0px 10px; float: left;
+}
+.plus_review_goods_search .plus_review_goods_option > *:first-child {
+	margin: 0px;
+}
+.plus_review_goods_search .plus_review_goods_option select {
+	width: 245px;
+}
+.plus_review_goods_search .plus_review_goods_option input {
+	border: 1px solid rgb(204, 204, 204); border-image: none; width: 265px;
+}
+.plus_review_goods_search .plus_review_goods_option a.btn_search {
+	background: rgb(102, 102, 102); width: 93px; text-align: center; line-height: 31px; padding-left: 7px; display: block;
+}
+.plus_review_goods_search .plus_review_goods_option a.btn_search span {
+	background: url("../../img/board/icon_white_search.png") no-repeat right; color: rgb(255, 255, 255); padding-right: 24px; font-size: 13px; font-weight: bold; display: inline-block;
+}
+.plus_review_view_search {
+	margin: 0px 0px 20px;
+}
+.plus_review_view_search > p {
+	text-align: center; color: rgb(34, 34, 34); font-size: 14px; font-weight: bold;
+}
+.plus_review_view_search .plus_review_search_option {
+	margin: 5px auto 0px; padding: 0px 19px; width: 1145px;
+}
+.plus_review_view_search .plus_review_search_option::after {
+	clear: both; display: block; content: "";
+}
+.plus_review_view_search .plus_review_search_option > div {
+	margin: 10px 6px 0px 0px; width: 219px; text-align: left; display: inline-block; position: relative;
+}
+.plus_review_view_search .plus_review_search_option > div > select {
+	width: 100%;
+}
+.plus_review_view_list {
+	border-top-color: currentColor; border-top-width: medium; border-top-style: none;
+}
+.plus_review_alike_search_wrap {
+	margin-top: 45px; margin-bottom: 30px; margin-left: 30px;
+}
+.plus_review_alike_search_tit {
+	padding: 0px 0px 10px 2px; color: rgb(51, 51, 51); font-size: 18px; font-weight: bold; border-bottom-color: rgb(153, 153, 153); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.plus_review_alike_search_tit > a {
+	width: 31px; height: 22px; overflow: hidden; vertical-align: middle; display: inline-block;
+}
+.plus_review_alike_search_tit > a.on img {
+	margin-top: -22px;
+}
+.plus_review_alike_search_area {
+	position: relative;
+}
+.plus_review_alike_search_con {
+	background: rgb(252, 252, 252); border-width: medium 1px 1px; border-style: none solid solid; border-color: currentColor rgb(240, 240, 240) rgb(240, 240, 240); border-image: none; display: none;
+}
+.plus_review_alike_search_con table {
+	width: 100%; border-collapse: collapse; table-layout: fixed;
+}
+.plus_review_alike_search_con table tr th {
+	padding: 17px 30px 17px 19px; text-align: left;
+}
+.plus_review_alike_search_con table tr td {
+	padding: 11px 0px 17px; vertical-align: top; border-top-color: rgb(230, 230, 230); border-top-width: 1px; border-top-style: solid;
+}
+.plus_review_alike_search_con table tr:first-child td {
+	border-top-color: currentColor; border-top-width: medium; border-top-style: none;
+}
+.plus_review_alike_search_con .choice_option {
+	padding: 0px 0px 0px 102px; position: relative;
+}
+.plus_review_alike_search_con .choice_option .choice_all {
+	left: 0px; top: 0px; position: absolute;
+}
+.plus_review_alike_search_con .choice_option .choice_each > div {
+	margin-right: 50px;
+}
+.plus_review_alike_search_con .choice_option .form_element {
+	margin-top: 6px;
+}
+.plus_review_alike_search_con .choice_option .form_element label.check_s {
+	padding-left: 32px;
+}
+.plus_review_loading {
+	margin: 10px 0px; text-align: center;
+}

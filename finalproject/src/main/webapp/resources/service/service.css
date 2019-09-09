@@ -1,0 +1,321 @@
+.service_tit {
+	margin: 0px 0px 20px; padding: 0px 0px 10px; font-size: 16px; border-bottom-color: rgb(153, 153, 153); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.service_cont {
+	
+}
+.service_cont .service_company {
+	
+}
+.service_cont .service_guide {
+	
+}
+.service_main {
+	
+}
+.service_main .board_zone_list {
+	min-height: 500px;
+}
+.service_main_cont {
+	margin: 50px 0px 0px; width: 100%; float: left; position: relative;
+}
+.service_main_cont::after {
+	clear: both; display: block; content: "";
+}
+.service_main_cont h3 {
+	padding: 0px 0px 10px; font-size: 18px; border-bottom-color: rgb(153, 153, 153); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.service_main_cont ul {
+	margin: -1px 0px 0px; border-top-color: rgb(153, 153, 153); border-top-width: 1px; border-top-style: solid;
+}
+.service_main_cont li {
+	padding: 0px 10px 0px 0px; line-height: 1; border-bottom-color: rgb(219, 219, 219); border-bottom-width: 1px; border-bottom-style: solid; position: relative;
+}
+.service_main_cont li span {
+	padding: 10px 0px 0px; color: rgb(172, 172, 172); float: right;
+}
+.service_main_cont li a {
+	background: url("../../img/icon/etc/icon_board_list.png") no-repeat 7px 15px; padding: 10px 15px 9px 20px; overflow: hidden; display: block; white-space: nowrap; -ms-word-wrap: normal; -ms-text-overflow: ellipsis;
+}
+.service_main_cont li a:hover {
+	text-decoration: underline;
+}
+.service_main_notice {
+	width: 47%; float: left; position: relative;
+}
+.service_main_event {
+	width: 47%; float: right; position: relative;
+}
+.poll_sec {
+	
+}
+.poll_sec .poll_tit {
+	margin: 0px 0px 20px; padding: 0px 0px 10px; font-size: 16px; border-bottom-color: rgb(153, 153, 153); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.poll_cont {
+	
+}
+.poll_list_box {
+	
+}
+.poll_list_box input[type='text'] {
+	margin: 0px 0px 0px 10px; width: 100%;
+}
+.poll_list_box textarea {
+	margin: 0px 0px 0px 10px; width: 100%; height: 100px;
+}
+.poll_list_box + .btn_center_box {
+	margin: 20px 0px 0px;
+}
+.poll_list_tit {
+	padding: 10px 0px 5px; font-size: 14px;
+}
+.poll_list_tit strong {
+	color: rgb(171, 62, 85);
+}
+.poll_list_cont {
+	padding: 0px 0px 30px 10px;
+}
+.poll_list_cont ul {
+	width: 100%;
+}
+.poll_list_cont li {
+	margin: 10px 0px; width: 100%;
+}
+.poll_list_cont .form_element {
+	padding: 0px 0px 0px 25px; display: block;
+}
+.poll_list_cont .form_element label {
+	margin: 0px 0px 0px -20px;
+}
+.poll_list_cont .form_element label + input[type='text'] {
+	margin: 5px 0px 0px; width: 60%; display: block; position: static;
+}
+.poll_end_cont {
+	padding: 80px 0px 0px; text-align: center; line-height: 2.8;
+}
+.poll_end_cont strong {
+	font-size: 28px; display: block;
+}
+.poll_end_cont span {
+	font-size: 16px; display: block;
+}
+.poll_end_cont a {
+	font-size: 14px;
+}
+.poll_end_cont a em {
+	border-bottom-color: rgb(51, 51, 51); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.poll_end_cont a em:hover {
+	border-bottom-color: rgb(51, 51, 51); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.poll_end_cont + .btn_center_box {
+	margin: 30px 0px 0px;
+}
+.poll_info_box {
+	background: rgb(248, 248, 248); margin: 0px 0px 30px; padding: 20px; border: 1px solid rgb(238, 238, 238); border-image: none;
+}
+.poll_info_box dl {
+	padding: 5px 0px; overflow: hidden;
+}
+.poll_info_box dt {
+	width: 80px; font-weight: bold; float: left;
+}
+.poll_info_box dd {
+	width: 400px; float: left;
+}
+.poll_result_tit {
+	padding: 5px 0px; font-size: 14px;
+}
+.poll_result_tit strong {
+	color: rgb(171, 62, 85);
+}
+.poll_result_cont {
+	padding: 0px 0px 30px 10px;
+}
+.poll_result_cont ul {
+	width: 100%;
+}
+.poll_result_cont li {
+	margin: 15px 0px; padding: 0px 0px 10px; width: 100%; vertical-align: middle; border-bottom-color: rgb(238, 238, 238); border-bottom-width: 1px; border-bottom-style: solid; display: table;
+}
+.poll_result_cont .poll_result_view {
+	padding: 10px; border: 1px solid rgb(206, 206, 206); border-image: none; -ms-word-break: break-all; box-sizing: border-box;
+}
+.poll_result_txt {
+	padding: 0px 10px 0px 0px; width: auto; display: block;
+}
+.poll_stick {
+	background: rgb(249, 249, 249); margin: 10px 0px 0px; width: 400px; height: 15px; display: inline-block;
+}
+.poll_stick em {
+	background: rgb(171, 62, 85); height: 15px; display: inline-table;
+}
+.poll_percent {
+	padding: 0px 0px 0px 15px; vertical-align: middle; display: inline-block;
+}
+.board_zone_sec {
+	position: relative;
+}
+.board_zone_tit {
+	margin: 0px 0px 10px; padding: 0px 0px 10px; font-size: 16px;
+}
+.board_zone_cont {
+	
+}
+.board_list_table {
+	border-width: 1px 0px 0px; border-style: solid none none; border-color: rgb(60, 60, 60) currentColor currentColor; margin: 0px 0px 20px; border-image: none; width: 100%; text-align: center; border-collapse: collapse; border-spacing: 0;
+}
+.board_list_table th {
+	background: rgb(251, 251, 251); padding: 10px 10px 10px 14px; border-bottom-color: rgb(219, 219, 219); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.board_list_table td {
+	padding: 13px 10px 15px; border-bottom-color: rgb(219, 219, 219); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.board_list_table .board_img {
+	border: 1px solid rgb(235, 235, 235); border-image: none; text-align: center; overflow: hidden; position: relative;
+}
+.board_list_table .board_img a {
+	height: 100%; vertical-align: middle; display: table-cell;
+}
+.board_list_table .board_tit {
+	text-align: left; vertical-align: middle;
+}
+.board_list_table .board_tit strong {
+	font-weight: normal;
+}
+.board_list_table .board_tit strong > span {
+	color: rgb(171, 62, 85);
+}
+.board_list_table .board_tit.on strong {
+	font-weight: bold;
+}
+.board_list_table .board_tit img {
+	margin: 0px 2px; vertical-align: middle;
+}
+.board_list_table .board_tit strong:hover {
+	text-decoration: underline;
+}
+.board_list_table .board_tit .reply {
+	
+}
+.board_list_table .board_tit .reply {
+	background: url("../../img/icon/board/icon_comment_reply.png") no-repeat 8px 4px; margin: 0px 0px 0px 15px; padding: 0px 0px 0px 20px;
+}
+.date_check_box {
+	margin: 0px 0px 35px; padding: 20px 20px 20px 30px; border: 3px solid rgb(238, 238, 238); border-image: none;
+}
+.date_check_box::after {
+	clear: both; display: block; content: "";
+}
+.date_check_box h3 {
+	padding: 6px 15px 0px 0px; color: rgb(119, 119, 119); font-size: 13px; float: left;
+}
+.date_check_list {
+	float: left;
+}
+.date_check_list button {
+	margin: 0px 0px 0px -1px; border: 1px solid rgb(214, 214, 214); border-image: none; width: 54px; height: 31px; color: rgb(119, 119, 119); font-size: 12px; float: left;
+}
+.date_check_list button:hover {
+	background: rgb(174, 174, 174); color: rgb(255, 255, 255);
+}
+.date_check_list button.on {
+	background: rgb(174, 174, 174); color: rgb(255, 255, 255);
+}
+.date_check_calendar {
+	margin: 0px 10px; float: left;
+}
+.date_check_calendar .anniversary {
+	background: url("../../img/member/icon_calendar.png") no-repeat right;
+}
+.date_faq_list {
+	width: 70%; display: inline-block;
+}
+.date_faq_list h2 {
+	padding: 0px 0px 10px;
+}
+.date_faq_list input[type='text'] {
+	width: 70%;
+}
+.date_faq_txt {
+	padding: 10px 0px 10px 50px; width: 23%; border-left-color: rgb(219, 219, 219); border-left-width: 1px; border-left-style: solid; display: inline-block;
+}
+.date_faq_txt strong {
+	padding: 0px 0px 10px; display: block;
+}
+.date_faq_txt .btn_gray_list .btn_gray_mid {
+	background: rgb(107, 107, 107); padding: 0px; border-radius: 5px; width: 100px; height: 30px; text-align: center; color: rgb(255, 255, 255); line-height: 30px;
+}
+.date_faq_txt .btn_gray_list .btn_gray_mid span {
+	padding: 0px;
+}
+.board_hot_list {
+	padding: 10px 0px 50px; text-align: left; font-size: 0px; border-top-color: rgb(153, 153, 153); border-top-width: 1px; border-top-style: solid;
+}
+.board_hot_list ul {
+	font-size: 12px; display: inline-block;
+}
+.board_hot_list ul li {
+	margin: 0px; width: auto; vertical-align: middle; display: inline-block;
+}
+.board_hot_list ul li.on {
+	font-weight: bold;
+}
+.board_hot_list ul li.on span {
+	color: rgb(61, 92, 89);
+}
+.board_hot_list ul li a {
+	padding: 0px 5px; height: 11px; border-left-color: rgb(204, 204, 204); border-left-width: 1px; border-left-style: solid; display: block;
+}
+.board_hot_list ul li a span {
+	top: -5px; position: relative;
+}
+.board_hot_list ul li a span:hover {
+	color: rgb(61, 92, 89); font-weight: bold; border-bottom-color: rgb(61, 92, 89); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.board_hot_list ul li:first-child a {
+	border-left-color: currentColor; border-left-width: 0px; border-left-style: none;
+}
+.board_list_faq {
+	position: relative;
+}
+.board_list_faq .board_hot_list {
+	padding: 10px 0px 20px;
+}
+.board_list_faq .board_list_table {
+	border-top-color: rgb(219, 219, 219); border-top-width: 1px; border-top-style: solid;
+}
+.board_list_faq .board_list_table .board_tit {
+	padding-left: 42px;
+}
+.board_list_faq .board_list_table .board_tit a {
+	background: url("../../img/icon/board/icon_toggle_open.png") no-repeat right; padding: 0px 30px 0px 0px; display: block;
+}
+.board_list_faq .board_list_table .board_tit.on a {
+	background: url("../../img/icon/board/icon_toggle_close.png") no-repeat right;
+}
+.board_list_faq .icon_qan {
+	margin: 0px 0px 0px -31px; padding: 0px 10px 0px 0px;
+}
+.board_faq {
+	background: rgb(248, 248, 248); text-align: left;
+}
+.board_faq_cont {
+	margin: 0px 0px 0px 193px; position: relative; min-height: 70px; max-width: 730px;
+}
+.board_faq_cont .icon_qan {
+	margin: 0px; left: -27px; top: 4px; position: absolute;
+}
+.service_company .ment {
+	margin: 25px 0px 70px; text-align: center; color: rgb(61, 92, 89); font-size: 22px;
+}
+.service_company .slogan {
+	margin: 0px auto; width: 592px; overflow: hidden;
+}
+.service_company .slogan li {
+	margin: 0px 25px; width: 246px; text-align: center; font-size: 15px; float: left;
+}
+.service_company .slogan li img {
+	margin-bottom: 30px;
+}

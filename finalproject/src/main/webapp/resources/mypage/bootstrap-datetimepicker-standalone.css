@@ -1,0 +1,93 @@
+.table-condensed > thead > tr > th {
+	padding: 4px 5px; border-radius: 0px;
+}
+.table-condensed > tbody > tr > th {
+	padding: 4px 5px; border-radius: 0px;
+}
+.table-condensed > tfoot > tr > th {
+	padding: 4px 5px; border-radius: 0px;
+}
+.table-condensed > thead > tr > td {
+	padding: 4px 5px; border-radius: 0px;
+}
+.table-condensed > tbody > tr > td {
+	padding: 4px 5px; border-radius: 0px;
+}
+.table-condensed > tfoot > tr > td {
+	padding: 4px 5px; border-radius: 0px;
+}
+.collapse {
+	display: none;
+}
+.collapse.in {
+	display: block;
+}
+.dropdown-menu {
+	list-style: none; margin: 2px 0px 0px; padding: 5px 0px; border: 1px solid rgba(0, 0, 0, 0.15); border-image: none; left: 0px; text-align: left; font-size: 12px; float: left; display: none; position: absolute; z-index: 1000; min-width: 160px; background-clip: padding-box; background-color: rgb(255, 255, 255); -webkit-background-clip: padding-box;
+}
+.list-unstyled {
+	list-style: none; padding-left: 0px;
+}
+.bootstrap-datetimepicker-widget table td:first-child.weekend {
+	color: rgb(255, 76, 46);
+}
+.bootstrap-datetimepicker-widget table td.active {
+	background-color: rgb(255, 76, 46);
+}
+.bootstrap-datetimepicker-widget table td.active:hover {
+	background-color: rgb(255, 76, 46);
+}
+.bootstrap-datetimepicker-widget table td span.active {
+	background-color: rgb(255, 76, 46);
+}
+.bootstrap-datetimepicker-widget table td.today::before {
+	border-bottom-color: rgb(255, 76, 46);
+}
+.bootstrap-datetimepicker-widget table td {
+	width: 42px; height: 32px; line-height: 32px;
+}
+.bootstrap-datetimepicker-widget table td span {
+	border-radius: 0px; width: 42px; height: 32px; line-height: 32px;
+}
+.picker-switch {
+	
+}
+.datepicker-days {
+	padding: 22px;
+}
+.datepicker-days .picker-switch {
+	color: rgb(51, 51, 51); font-size: 16px;
+}
+.datepicker-months {
+	padding: 20px 10px;
+}
+.datepicker-years {
+	padding: 20px 10px;
+}
+.datepicker-decades {
+	padding: 20px 10px;
+}
+.datepicker-months .picker-switch {
+	color: rgb(51, 51, 51); font-size: 24px;
+}
+.bootstrap-datetimepicker-widget .datepicker-months .month {
+	width: 45px;
+}
+.datepicker-years .picker-switch {
+	color: rgb(51, 51, 51); font-size: 20px;
+}
+.datepicker-decades .picker-switch {
+	color: rgb(51, 51, 51); font-size: 20px;
+}
+.bootstrap-datetimepicker-widget .datepicker-decades .decade {
+	margin: 0px 2px; border-radius: 0px; width: 54px; height: 45px; line-height: 45px;
+}
+.bootstrap-datetimepicker-widget th:hover {
+	background-color: transparent;
+}
+.bootstrap-datetimepicker-widget .prev {
+	background: url("../../img/btn/gv-thumbnail-prev.png") no-repeat 50% 50%;
+}
+.bootstrap-datetimepicker-widget .next {
+	background: url("../../img/btn/gv-thumbnail-next.png") no-repeat 50% 50%;
+}

@@ -1,0 +1,555 @@
+.btn_gray_list {
+	
+}
+.btn_gray_list a {
+	background: url("../img/common/btn/btn_gray_bg.png") repeat-x; padding: 0px 0px 0px 11px; border: 1px solid rgb(219, 219, 219); border-image: none; vertical-align: middle; display: inline-block;
+}
+.btn_gray_list button {
+	background: url("../img/common/btn/btn_gray_bg.png") repeat-x; padding: 0px 0px 0px 11px; border: 1px solid rgb(219, 219, 219); border-image: none; vertical-align: middle; display: inline-block;
+}
+.btn_gray_list a em {
+	background: url("../img/common/btn/btn_gray_bg.png") no-repeat right top; padding: 0px 20px 0px 0px; display: inline-block;
+}
+.btn_gray_list button em {
+	background: url("../img/common/btn/btn_gray_bg.png") no-repeat right top; padding: 0px 20px 0px 0px; display: inline-block;
+}
+.btn_gray_list a span {
+	padding: 0px 12px 0px 0px; display: inline-block;
+}
+.btn_gray_list button span {
+	padding: 0px 12px 0px 0px; display: inline-block;
+}
+.btn_gray_list a:hover {
+	background: rgb(248, 248, 248);
+}
+.btn_gray_list button:hover {
+	background: rgb(248, 248, 248);
+}
+.btn_gray_list button em {
+	margin-top: -2px;
+}
+.btn_gray_list .btn_gray_small {
+	background: url("../img/common/btn/btn_gray_bg_02.png") repeat-x bottom; font-size: 11px;
+}
+.btn_gray_list .btn_gray_small em {
+	background-position: right 1px; line-height: 22px;
+}
+.btn_gray_list .btn_gray_small em.icon_download {
+	background-position: right -22px; padding: 0px 30px 0px 0px;
+}
+.btn_gray_list .btn_gray_small span {
+	line-height: 22px;
+}
+.btn_gray_list .btn_gray_mid {
+	background-position: 0px -70px; height: 26px;
+}
+.btn_gray_list .btn_gray_mid em {
+	background-position: right -69px; line-height: 26px;
+}
+.btn_gray_list .btn_gray_mid span {
+	line-height: 26px;
+}
+.btn_gray_list .btn_gray_mid em.icon_download {
+	background-position: right -93px; padding: 0px 30px 0px 0px;
+}
+.btn_gray_list .btn_gray_big {
+	background-position: 0px -140px; height: 31px;
+}
+.btn_gray_list .btn_gray_big em {
+	background-position: right -139px; line-height: 31px;
+}
+.btn_gray_list .btn_gray_big span {
+	line-height: 31px;
+}
+.btn_gray_list .style-none {
+	background: none !important; padding: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+.btn_center_box button {
+	
+}
+.btn_center_box button + button {
+	margin-left: 6px;
+}
+.btn_left_box button + button {
+	margin-left: 6px;
+}
+.btn_right_box button + button {
+	margin-left: 6px;
+}
+.btn_add_cart {
+	background: rgb(255, 255, 255); margin: 0px 0px 0px 6px; padding: 0px 10px; border-radius: 10px; border: 1px solid rgb(61, 92, 89); border-image: none; width: 152px; height: 52px; text-align: center; color: rgb(61, 92, 89); font-size: 16px; font-weight: bold; display: inline-block;
+}
+.btn_add_wish {
+	background: rgb(255, 255, 255); margin: 0px 0px 0px 6px; padding: 0px 10px; border-radius: 10px; border: 1px solid rgb(61, 92, 89); border-image: none; width: 152px; height: 52px; text-align: center; color: rgb(61, 92, 89); font-size: 16px; font-weight: bold; display: inline-block;
+}
+.btn_add_cart:hover {
+	border: 1px solid rgb(61, 92, 89); border-image: none; color: rgb(61, 92, 89);
+}
+.btn_add_wish:hover {
+	border: 1px solid rgb(61, 92, 89); border-image: none; color: rgb(61, 92, 89);
+}
+.btn_add_order {
+	background: rgb(61, 92, 89); margin: 0px 0px 0px 6px; padding: 0px 10px; border-radius: 10px; border: 1px solid rgb(61, 92, 89); border-image: none; width: 230px; height: 52px; text-align: center; color: rgb(255, 255, 255); font-size: 16px; font-weight: bold; display: inline-block;
+}
+.btn_add_order_related {
+	background: rgb(61, 92, 89); margin: 0px 0px 0px 6px; padding: 0px 10px; border-radius: 10px; border: 1px solid rgb(61, 92, 89); border-image: none; width: 230px; height: 52px; text-align: center; color: rgb(255, 255, 255); font-size: 16px; font-weight: bold; display: inline-block;
+}
+.btn_add_cart_related {
+	background: rgb(61, 92, 89); margin: 0px 0px 0px 6px; padding: 0px 10px; border-radius: 10px; border: 1px solid rgb(61, 92, 89); border-image: none; width: 230px; height: 52px; text-align: center; color: rgb(255, 255, 255); font-size: 16px; font-weight: bold; display: inline-block;
+}
+.btn_add_order:hover {
+	background: rgb(61, 92, 89); border: 1px solid rgb(61, 92, 89); border-image: none;
+}
+.btn_add_order_related:hover {
+	background: rgb(61, 92, 89); border: 1px solid rgb(61, 92, 89); border-image: none;
+}
+.btn_add_cart_related:hover {
+	background: rgb(61, 92, 89); border: 1px solid rgb(61, 92, 89); border-image: none;
+}
+.btn_add_soldout {
+	background: rgb(102, 102, 102); margin: 0px auto; padding: 0px 10px; border: 1px solid rgb(102, 102, 102); border-image: none; width: 390px; height: 52px; text-align: center; color: rgb(255, 255, 255); font-size: 20px; font-weight: bold; cursor: default;
+}
+.btn_add_cart {
+	margin: 0px;
+}
+.btn_restock_notice_v1 {
+	background: url("../img/icon/goods_icon/ico_restock_moment.png") no-repeat 8px rgb(255, 255, 255); margin: 0px; padding: 0px 10px 0px 34px; border: 1px solid rgb(171, 62, 85); border-image: none; width: 128px; height: 52px; text-align: center; color: rgb(171, 62, 85); font-size: 16px; font-weight: bold; display: inline-block;
+}
+.btn_restock_notice_v1:hover {
+	border: 1px solid rgb(171, 62, 85); border-image: none; color: rgb(171, 62, 85);
+}
+.btn_restock_notice_v2 {
+	background: url("../img/icon/goods_icon/ico_restock_moment.png") no-repeat 18px rgb(255, 255, 255); margin: 0px 5px 0px 0px; padding: 0px 10px 0px 34px; border: 1px solid rgb(171, 62, 85); border-image: none; width: 156px; height: 52px; text-align: center; color: rgb(171, 62, 85); font-size: 16px; font-weight: bold; display: inline-block;
+}
+.btn_choice_box .restock {
+	display: inline-block;
+}
+.btn_choice_box .restock .btn_add_cart {
+	margin: 0px 0px 0px 3px; width: 115px;
+}
+.btn_choice_box .restock .btn_add_wish {
+	margin: 0px 0px 0px 3px; width: 115px;
+}
+.btn_choice_box .restock .btn_add_order {
+	margin: 0px 0px 0px 3px; width: 176px;
+}
+.btn_reviews_more {
+	background: rgb(255, 255, 255); padding: 10px; border-radius: 5px; border: 1px solid rgb(61, 92, 89); border-image: none; text-align: center; color: rgb(61, 92, 89); font-weight: bold; display: inline-block; min-width: 120px;
+}
+.btn_qna_more {
+	background: rgb(255, 255, 255); padding: 10px; border-radius: 5px; border: 1px solid rgb(61, 92, 89); border-image: none; text-align: center; color: rgb(61, 92, 89); font-weight: bold; display: inline-block; min-width: 120px;
+}
+.btn_reviews_more:hover {
+	border: 1px solid rgb(61, 92, 89); border-image: none; color: rgb(61, 92, 89);
+}
+.btn_qna_more:hover {
+	border: 1px solid rgb(61, 92, 89); border-image: none; color: rgb(61, 92, 89);
+}
+.btn_reviews_write {
+	background: rgb(61, 92, 89); padding: 10px; border-radius: 5px; border: 1px solid rgb(61, 92, 89); border-image: none; text-align: center; color: rgb(255, 255, 255); font-weight: bold; display: inline-block; min-width: 120px;
+}
+.btn_qna_write {
+	background: rgb(61, 92, 89); padding: 10px; border-radius: 5px; border: 1px solid rgb(61, 92, 89); border-image: none; text-align: center; color: rgb(255, 255, 255); font-weight: bold; display: inline-block; min-width: 120px;
+}
+.btn_reviews_write:hover {
+	background: rgb(61, 92, 89); border: 1px solid rgb(61, 92, 89); border-image: none;
+}
+.btn_qna_write:hover {
+	background: rgb(61, 92, 89); border: 1px solid rgb(61, 92, 89); border-image: none;
+}
+.btn_reviews_box {
+	top: 32px; right: 0px; position: absolute;
+}
+.btn_qna_box {
+	top: 32px; right: 0px; position: absolute;
+}
+.btn_comment_best {
+	background: rgb(171, 62, 85); margin: 0px 0px 0px 10px; padding: 1px 5px 2px; border: 1px solid rgb(171, 62, 85); border-image: none; text-align: center; color: rgb(255, 255, 255); font-size: 11px; display: inline-block; min-width: 50px;
+}
+.btn_comment_best:hover {
+	background: rgb(155, 52, 74); border: 1px solid rgb(155, 52, 74); border-image: none;
+}
+.btn_goods_search {
+	background: rgb(61, 91, 89); border-radius: 5px; border: 1px solid rgb(61, 91, 89); border-image: none; height: 31px; text-align: center; color: rgb(255, 255, 255); font-weight: bold; display: inline-block; min-width: 100px;
+}
+.btn_goods_search em {
+	background-position: right 1px; padding: 0px 20px 0px 0px; background-image: url("../img/common/btn/btn_goods_search.png"); background-repeat: no-repeat;
+}
+.btn_goods_main_more {
+	height: 1px; border-top-color: rgb(219, 219, 219); border-top-width: 1px; border-top-style: solid;
+}
+.btn_goods_main_more .btn_goods_main_view_more {
+	padding: 2px 5px 3px; border: 1px solid rgb(219, 219, 219); border-image: none; top: 4px; right: 5px; font-size: 11px; font-weight: bold; position: absolute;
+}
+.btn_member_prev {
+	background: rgb(255, 255, 255); margin: 35px 0px 0px; border-radius: 10px; border: 1px solid rgb(204, 204, 204); border-image: none; width: 150px; height: 45px; color: rgb(62, 61, 60); font-size: 14px; cursor: pointer;
+}
+.btn_member_prev:hover {
+	border: 1px solid rgb(187, 187, 187); border-image: none; color: rgb(51, 51, 51);
+}
+.btn_member_next {
+	background: rgb(61, 92, 89); margin: 35px 0px 0px; border-radius: 10px; border: 1px solid rgb(61, 92, 89); border-image: none; width: 150px; height: 45px; color: rgb(255, 255, 255); font-size: 14px; font-weight: bold; cursor: pointer;
+}
+.btn_member_next:hover {
+	background: rgb(61, 92, 89); border: 1px solid rgb(61, 92, 89); border-image: none;
+}
+.btn_member_ok {
+	background: rgb(171, 62, 85); margin: 35px 0px 0px; border: 1px solid rgb(171, 62, 85); border-image: none; width: 150px; height: 45px; color: rgb(255, 255, 255); font-size: 14px; cursor: pointer;
+}
+.btn_member_login {
+	background: rgb(171, 62, 85); margin: 35px 0px 0px; border: 1px solid rgb(171, 62, 85); border-image: none; width: 150px; height: 45px; color: rgb(255, 255, 255); font-size: 14px; cursor: pointer;
+}
+.btn_member_ok:hover {
+	background: rgb(155, 52, 74); border: 1px solid rgb(155, 52, 74); border-image: none;
+}
+.btn_member_login:hover {
+	background: rgb(155, 52, 74); border: 1px solid rgb(155, 52, 74); border-image: none;
+}
+.btn_member_id {
+	background: rgb(62, 61, 60); margin: 15px 0px 0px; border-radius: 10px; border: 1px solid rgb(62, 61, 60); border-image: none; width: 158px; height: 91px; color: rgb(255, 255, 255); font-size: 15px; font-weight: bold; float: right; cursor: pointer;
+}
+.btn_member_id:hover {
+	background: rgb(79, 78, 77); border: 1px solid rgb(79, 78, 77); border-image: none;
+}
+.btn_member_white {
+	background: rgb(255, 255, 255); border-radius: 10px; border: 1px solid rgb(204, 204, 204); border-image: none; width: 150px; height: 45px; color: rgb(107, 107, 107); font-size: 13px; font-weight: bold; cursor: pointer;
+}
+.btn_member_white:hover {
+	border: 1px solid rgb(204, 204, 204); border-image: none; color: rgb(107, 107, 107);
+}
+.btn_member_black {
+	background: rgb(171, 62, 85); margin: 35px 0px 0px; border: 1px solid rgb(171, 62, 85); border-image: none; width: 150px; height: 45px; color: rgb(255, 255, 255); font-size: 14px; font-weight: bold; cursor: pointer;
+}
+.btn_member_black:hover {
+	background: rgb(155, 52, 74); border: 1px solid rgb(155, 52, 74); border-image: none;
+}
+.btn_member_cancel {
+	background: rgb(255, 255, 255); border-radius: 10px; border: 1px solid rgb(204, 204, 204); border-image: none; width: 150px; height: 45px; color: rgb(62, 61, 60); font-size: 14px; font-weight: bold; cursor: pointer;
+}
+.btn_member_cancel:hover {
+	border: 1px solid rgb(187, 187, 187); border-image: none; color: rgb(51, 51, 51);
+}
+.btn_member_join {
+	background: rgb(107, 107, 107); margin: 0px; border-radius: 10px; border: 1px solid rgb(107, 107, 107); border-image: none; width: 150px; height: 45px; color: rgb(255, 255, 255); font-size: 14px; font-weight: bold; cursor: pointer;
+}
+.btn_member_join:hover {
+	background: rgb(107, 107, 107); border: 1px solid rgb(107, 107, 107); border-image: none; color: rgb(255, 255, 255);
+}
+.btn_comfirm {
+	background: rgb(61, 92, 89); margin: 0px; border-radius: 10px; border: 1px solid rgb(61, 92, 89); border-image: none; width: 150px; height: 45px; color: rgb(255, 255, 255); font-size: 14px; font-weight: bold; cursor: pointer;
+}
+.btn_comfirm:hover {
+	background: rgb(61, 92, 89); border: 1px solid rgb(61, 92, 89); border-image: none; color: rgb(255, 255, 255);
+}
+.mypage_lately_info .btn_board_more {
+	top: 7px; right: 5px; font-size: 12px; position: absolute;
+}
+.mypage_lately_info .btn_board_more:hover {
+	text-decoration: underline;
+}
+.btn_buy_ok {
+	background: rgb(61, 92, 89); margin: 2px 1px; padding: 3px 10px 4px; border-radius: 5px; border: 1px solid rgb(61, 92, 89); border-image: none; text-align: center; color: rgb(255, 255, 255); display: inline-block; min-width: 46px;
+}
+.btn_review_write {
+	background: rgb(61, 92, 89); margin: 2px 1px; padding: 3px 10px 4px; border-radius: 5px; border: 1px solid rgb(61, 92, 89); border-image: none; text-align: center; color: rgb(255, 255, 255); display: inline-block; min-width: 46px;
+}
+.btn_buy_ok em {
+	font-weight: bold;
+}
+.btn_review_write em {
+	font-weight: bold;
+}
+.btn_buy_ok:hover {
+	background: rgb(61, 92, 89); border: 1px solid rgb(61, 92, 89); border-image: none;
+}
+.btn_review_write:hover {
+	background: rgb(61, 92, 89); border: 1px solid rgb(61, 92, 89); border-image: none;
+}
+.btn_claim_cancel {
+	background: rgb(255, 255, 255); padding: 0px 10px; border-radius: 10px; border: 1px solid rgb(204, 204, 204); border-image: none; height: 42px; text-align: center; color: rgb(62, 61, 60); line-height: 40px; font-size: 14px; display: inline-block; min-width: 80px;
+}
+.btn_claim_cancel:hover {
+	border: 1px solid rgb(187, 187, 187); border-image: none; color: rgb(51, 51, 51);
+}
+.btn_claim_cancel em {
+	font-weight: bold;
+}
+.btn_claim_ok {
+	background: rgb(61, 92, 89); padding: 0px 10px; border-radius: 10px; border: 1px solid rgb(61, 92, 89); border-image: none; height: 44px; text-align: center; color: rgb(255, 255, 255); font-size: 14px; font-weight: bold; vertical-align: top; min-width: 100px;
+}
+.btn_claim_ok:hover {
+	background: rgb(61, 92, 89); border: 1px solid rgb(61, 92, 89); border-image: none;
+}
+.btn_claim_ok em {
+	font-weight: bold;
+}
+.btn_wish_cart {
+	background: rgb(61, 92, 89); margin: 2px 1px; padding: 3px 10px 4px; border-radius: 5px; border: 1px solid rgb(61, 92, 89); border-image: none; text-align: center; color: rgb(255, 255, 255); display: inline-block; min-width: 46px;
+}
+.btn_wish_cart:hover {
+	background: rgb(61, 92, 89); border: 1px solid rgb(61, 92, 89); border-image: none;
+}
+.btn_wish_del {
+	background: rgb(255, 255, 255); margin: 5px 0px 0px; padding: 3px 10px 4px; border-radius: 5px; border: 1px solid rgb(204, 204, 204); border-image: none; text-align: center; color: rgb(62, 61, 60); display: inline-block; min-height: 18px; min-width: 46px;
+}
+.btn_wish_del:hover {
+	border: 1px solid rgb(187, 187, 187); border-image: none; color: rgb(51, 51, 51);
+}
+.btn_wish_choice_del {
+	background: rgb(255, 255, 255); margin: 5px 0px 0px; padding: 3px 10px 4px; border: 1px solid rgb(163, 163, 163); border-image: none; text-align: center; color: rgb(98, 98, 98); display: inline-block; min-height: 18px; min-width: 46px;
+}
+.btn_wish_choice_cart {
+	background: rgb(255, 255, 255); margin: 5px 0px 0px; padding: 3px 10px 4px; border: 1px solid rgb(163, 163, 163); border-image: none; text-align: center; color: rgb(98, 98, 98); display: inline-block; min-height: 18px; min-width: 46px;
+}
+.btn_wish_choice_del:hover {
+	border: 1px solid rgb(119, 119, 119); border-image: none; color: rgb(72, 72, 72);
+}
+.btn_pw_cancel {
+	background: rgb(255, 255, 255); padding: 0px 10px; border-radius: 10px; border: 1px solid rgb(204, 204, 204); border-image: none; height: 42px; text-align: center; color: rgb(62, 61, 60); line-height: 40px; font-size: 14px; display: inline-block; cursor: pointer; min-width: 80px;
+}
+.btn_pw_cancel:hover {
+	border: 1px solid rgb(187, 187, 187); border-image: none; color: rgb(51, 51, 51);
+}
+.btn_pw_cancel em {
+	font-weight: bold;
+}
+.btn_pw_certify {
+	background: rgb(61, 92, 89); padding: 0px 10px; border-radius: 10px; border: 1px solid rgb(61, 92, 89); border-image: none; height: 44px; text-align: center; color: rgb(255, 255, 255); font-size: 14px; font-weight: bold; vertical-align: top; min-width: 100px;
+}
+.btn_pw_certify:hover {
+	background: rgb(61, 92, 89); border: 1px solid rgb(61, 92, 89); border-image: none;
+}
+.btn_pw_certify em {
+	font-weight: bold;
+}
+.btn_add_shipping {
+	background: rgb(151, 151, 151); padding: 0px 10px; border: 1px solid rgb(151, 151, 151); border-image: none; top: -42px; height: 30px; text-align: center; right: 0px; color: rgb(255, 255, 255); line-height: 28px; position: absolute;
+}
+.btn_add_shipping:hover {
+	background: rgb(98, 98, 98); border: 1px solid rgb(98, 98, 98); border-image: none;
+}
+.btn_coupon_register {
+	background: rgb(151, 151, 151); border: 1px solid rgb(151, 151, 151); border-image: none; top: -5px; width: 70px; height: 28px; text-align: center; right: 0px; color: rgb(255, 255, 255); line-height: 26px; position: absolute;
+}
+.btn_coupon_register:hover {
+	background: rgb(98, 98, 98); border: 1px solid rgb(98, 98, 98); border-image: none;
+}
+.btn_coupon_register em {
+	font-size: 12px;
+}
+.mypage_cont .btn_date_check {
+	background: rgb(61, 92, 89); border-radius: 5px; border: 1px solid rgb(61, 92, 89); border-image: none; height: 31px; text-align: center; color: rgb(255, 255, 255); font-weight: bold; float: left; min-width: 100px;
+}
+.mypage_cont .btn_date_check:hover {
+	background: rgb(61, 92, 89); border: 1px solid rgb(61, 92, 89); border-image: none;
+}
+.mypage_cont .btn_date_check em {
+	background-position: right 1px; padding: 0px 20px 0px 0px; font-weight: bold; background-image: url("../img/common/btn/btn_goods_search.png"); background-repeat: no-repeat;
+}
+.shop_go_link {
+	border-bottom-color: rgb(51, 51, 51); border-bottom-width: 1px; border-bottom-style: solid; display: inline-block;
+}
+.btn_order_choice_del {
+	padding: 0px 15px; border-radius: 5px; border: 1px solid rgb(163, 163, 163); border-image: none; height: 30px; text-align: center; color: rgb(98, 98, 98); line-height: 28px; display: inline-block; min-width: 120px;
+}
+.btn_order_choice_wish {
+	padding: 0px 15px; border-radius: 5px; border: 1px solid rgb(163, 163, 163); border-image: none; height: 30px; text-align: center; color: rgb(98, 98, 98); line-height: 28px; display: inline-block; min-width: 120px;
+}
+.btn_order_choice_del:hover {
+	border: 1px solid rgb(119, 119, 119); border-image: none; color: rgb(72, 72, 72);
+}
+.btn_order_choice_wish:hover {
+	border: 1px solid rgb(119, 119, 119); border-image: none; color: rgb(72, 72, 72);
+}
+.btn_order_choice_buy {
+	background: rgb(255, 255, 255); padding: 0px 20px; border-radius: 10px; border: 1px solid rgb(204, 204, 204); border-image: none; height: 55px; color: rgb(62, 61, 60); font-size: 14px; font-weight: bold; cursor: pointer; min-width: 190px;
+}
+.btn_order_choice_buy:hover {
+	border: 1px solid rgb(187, 187, 187); border-image: none; color: rgb(51, 51, 51);
+}
+.btn_order_whole_buy {
+	background: rgb(61, 92, 89); padding: 0px 20px; border-radius: 10px; border: 1px solid rgb(61, 92, 89); border-image: none; height: 55px; color: rgb(255, 255, 255); font-size: 14px; font-weight: bold; cursor: pointer; min-width: 190px;
+}
+.btn_order_whole_buy:hover {
+	background: rgb(61, 92, 89); border: 1px solid rgb(61, 92, 89); border-image: none;
+}
+.btn_order_buy {
+	background: rgb(61, 92, 89); border-radius: 10px; border: 1px solid rgb(61, 92, 89); border-image: none; width: 300px; height: 61px; text-align: center; color: rgb(255, 255, 255); line-height: 59px; font-size: 20px; display: inline-block;
+}
+.btn_order_buy em {
+	font-weight: bold;
+}
+.btn_order_buy:hover {
+	background: rgb(61, 92, 89); border: 1px solid rgb(61, 92, 89); border-image: none;
+}
+.btn_order_end_ok {
+	background: rgb(61, 92, 89); border-radius: 10px; border: 1px solid rgb(61, 92, 89); border-image: none; width: 200px; height: 61px; text-align: center; color: rgb(255, 255, 255); line-height: 59px; font-size: 16px; display: inline-block;
+}
+.btn_order_end_ok em {
+	font-weight: bold;
+}
+.btn_order_end_ok:hover {
+	background: rgb(61, 92, 89); border: 1px solid rgb(61, 92, 89); border-image: none;
+}
+.btn_board_more {
+	top: 7px; right: 5px; font-size: 12px; position: absolute;
+}
+.btn_board_more:hover {
+	text-decoration: underline;
+}
+.board_list_faq .btn_board_more {
+	top: -34px; right: 5px; font-size: 12px; position: absolute;
+}
+.board_list_faq .btn_board_more:hover {
+	text-decoration: underline;
+}
+.btn_poll_finish {
+	background: rgb(171, 62, 85); padding: 0px 10px; border: 1px solid rgb(171, 62, 85); border-image: none; height: 42px; text-align: center; color: rgb(255, 255, 255); line-height: 40px; font-size: 14px; display: inline-block; min-width: 150px;
+}
+.btn_main_go {
+	background: rgb(171, 62, 85); padding: 0px 10px; border: 1px solid rgb(171, 62, 85); border-image: none; height: 42px; text-align: center; color: rgb(255, 255, 255); line-height: 40px; font-size: 14px; display: inline-block; min-width: 150px;
+}
+.btn_date_check {
+	background: rgb(61, 92, 89); border-radius: 5px; border: 1px solid rgb(61, 92, 89); border-image: none; height: 31px; text-align: center; color: rgb(255, 255, 255); font-weight: bold; display: inline-block; min-width: 100px;
+}
+.btn_date_check:hover {
+	background: rgb(61, 92, 89); border: 1px solid rgb(61, 92, 89); border-image: none;
+}
+.btn_date_check em {
+	background-position: right 1px; padding: 0px 20px 0px 0px; font-weight: bold; background-image: url("../img/common/btn/btn_goods_search.png"); background-repeat: no-repeat;
+}
+.btn_ly_download {
+	background: rgb(61, 92, 89); padding: 0px 10px; border-radius: 10px; border: 1px solid rgb(61, 92, 89); border-image: none; height: 42px; text-align: center; color: rgb(255, 255, 255); font-size: 14px; display: inline-block; cursor: pointer; min-width: 100px;
+}
+.btn_ly_coupon_apply {
+	background: rgb(61, 92, 89); padding: 0px 10px; border-radius: 10px; border: 1px solid rgb(61, 92, 89); border-image: none; height: 42px; text-align: center; color: rgb(255, 255, 255); font-size: 14px; display: inline-block; cursor: pointer; min-width: 100px;
+}
+.btn_ly_write_ok {
+	background: rgb(61, 92, 89); padding: 0px 10px; border-radius: 10px; border: 1px solid rgb(61, 92, 89); border-image: none; height: 42px; text-align: center; color: rgb(255, 255, 255); font-size: 14px; display: inline-block; cursor: pointer; min-width: 100px;
+}
+.btn_ly_ok {
+	background: rgb(61, 92, 89); padding: 0px 10px; border-radius: 10px; border: 1px solid rgb(61, 92, 89); border-image: none; height: 42px; text-align: center; color: rgb(255, 255, 255); font-size: 14px; display: inline-block; cursor: pointer; min-width: 100px;
+}
+.btn_ly_save {
+	background: rgb(61, 92, 89); padding: 0px 10px; border-radius: 10px; border: 1px solid rgb(61, 92, 89); border-image: none; height: 42px; text-align: center; color: rgb(255, 255, 255); font-size: 14px; display: inline-block; cursor: pointer; min-width: 100px;
+}
+.btn_escrow_go {
+	background: rgb(61, 92, 89); padding: 0px 10px; border-radius: 10px; border: 1px solid rgb(61, 92, 89); border-image: none; height: 42px; text-align: center; color: rgb(255, 255, 255); font-size: 14px; display: inline-block; cursor: pointer; min-width: 100px;
+}
+.btn_pg_go {
+	background: rgb(61, 92, 89); padding: 0px 10px; border-radius: 10px; border: 1px solid rgb(61, 92, 89); border-image: none; height: 42px; text-align: center; color: rgb(255, 255, 255); font-size: 14px; display: inline-block; cursor: pointer; min-width: 100px;
+}
+.btn_ly_download:hover {
+	background: rgb(61, 92, 89); border: 1px solid rgb(61, 92, 89); border-image: none;
+}
+.btn_ly_coupon_apply:hover {
+	background: rgb(61, 92, 89); border: 1px solid rgb(61, 92, 89); border-image: none;
+}
+.btn_ly_write_ok:hover {
+	background: rgb(61, 92, 89); border: 1px solid rgb(61, 92, 89); border-image: none;
+}
+.btn_ly_ok:hover {
+	background: rgb(61, 92, 89); border: 1px solid rgb(61, 92, 89); border-image: none;
+}
+.btn_ly_save:hover {
+	background: rgb(61, 92, 89); border: 1px solid rgb(61, 92, 89); border-image: none;
+}
+.btn_escrow_go:hover {
+	background: rgb(61, 92, 89); border: 1px solid rgb(61, 92, 89); border-image: none;
+}
+.btn_pg_go:hover {
+	background: rgb(61, 92, 89); border: 1px solid rgb(61, 92, 89); border-image: none;
+}
+.btn_ly_cancel {
+	padding: 0px 5px; border-radius: 10px; border: 1px solid rgb(61, 92, 89); border-image: none; width: 100px; height: 42px; text-align: center; color: rgb(61, 92, 89); font-size: 14px; display: inline-block; cursor: pointer;
+}
+.btn_ly_cancel:hover {
+	border: 1px solid rgb(61, 92, 89); border-image: none; color: rgb(61, 92, 89);
+}
+.btn_ly_join {
+	background: rgb(107, 107, 107); margin: 0px 5px 0px 0px; border: 1px solid rgb(107, 107, 107); border-image: none; height: 42px; color: rgb(255, 255, 255); line-height: 40px; font-size: 14px; display: inline-block; min-width: 150px;
+}
+.btn_ly_login {
+	background: rgb(62, 61, 60); padding: 0px 10px; border: 1px solid rgb(62, 61, 60); border-image: none; height: 42px; text-align: center; color: rgb(255, 255, 255); line-height: 40px; font-size: 14px; display: inline-block; min-width: 150px;
+}
+.btn_ly_password {
+	background: rgb(62, 61, 60); padding: 0px 5px; border: 1px solid rgb(62, 61, 60); border-image: none; width: 70px; height: 28px; text-align: center; color: rgb(255, 255, 255); display: inline-block; cursor: pointer;
+}
+.btn_ly_date_check {
+	background: rgb(61, 92, 89); border-radius: 5px; border: 1px solid rgb(61, 92, 89); border-image: none; height: 31px; text-align: center; color: rgb(255, 255, 255); font-weight: bold; display: inline-block; min-width: 100px;
+}
+.btn_ly_depositor {
+	background: rgb(61, 92, 89); border-radius: 5px; border: 1px solid rgb(61, 92, 89); border-image: none; height: 31px; text-align: center; color: rgb(255, 255, 255); font-weight: bold; display: inline-block; min-width: 100px;
+}
+.btn_ly_date_check:hover {
+	background: rgb(61, 92, 89); border: 1px solid rgb(61, 92, 89); border-image: none;
+}
+.btn_ly_depositor:hover {
+	background: rgb(61, 92, 89); border: 1px solid rgb(61, 92, 89); border-image: none;
+}
+.btn_ly_date_check em {
+	background-position: right 3px; padding: 0px 20px 0px 0px; font-weight: bold; background-image: url("../img/common/btn/btn_goods_search.png"); background-repeat: no-repeat;
+}
+.btn_ly_depositor em {
+	background-position: right 3px; padding: 0px 20px 0px 0px; font-weight: bold; background-image: url("../img/common/btn/btn_goods_search.png"); background-repeat: no-repeat;
+}
+.plus_review_look .btn_comment_best {
+	background: rgb(171, 62, 85); margin: 0px 0px 0px 10px; padding: 1px 5px 2px; border: 1px solid rgb(171, 62, 85); border-image: none; text-align: center; color: rgb(255, 255, 255); font-size: 11px; display: inline-block; min-width: 50px;
+}
+.plus_review_look .btn_comment_best:hover {
+	background: rgb(155, 52, 74); border: 1px solid rgb(155, 52, 74); border-image: none;
+}
+.bnt_tax_invoice {
+	background: rgb(171, 62, 85); padding: 5px 20px; border: 1px solid rgb(171, 62, 85); border-image: none; height: 31px; text-align: center; color: rgb(255, 255, 255); line-height: 30px; font-weight: bold; display: inline-block; min-width: 100px;
+}
+.bnt_tax_invoice:hover {
+	background: rgb(155, 52, 74); border: 1px solid rgb(155, 52, 74); border-image: none;
+}
+.bnt_tax_invoice em {
+	font-size: 14px; font-weight: bold;
+}
+.bnt_cash_receipt {
+	background: rgb(171, 62, 85); padding: 5px 20px; border: 1px solid rgb(171, 62, 85); border-image: none; height: 31px; text-align: center; color: rgb(255, 255, 255); line-height: 30px; font-weight: bold; display: inline-block; min-width: 100px;
+}
+.bnt_cash_receipt:hover {
+	background: rgb(155, 52, 74); border: 1px solid rgb(155, 52, 74); border-image: none;
+}
+.bnt_cash_receipt em {
+	font-size: 14px; font-weight: bold;
+}
+.btn_ly_add_shipping {
+	background: rgb(61, 92, 89); border-radius: 5px; border: 1px solid rgb(61, 92, 89); border-image: none; top: -42px; width: 121px; height: 30px; text-align: center; right: 0px; color: rgb(255, 255, 255); line-height: 28px; position: absolute;
+}
+.btn_ly_add_shipping:hover {
+	background: rgb(61, 92, 89); border: 1px solid rgb(61, 92, 89); border-image: none;
+}
+.btn_pg_cancel {
+	background: rgb(255, 255, 255); margin: 0px 5px; border: 1px solid rgb(204, 204, 204); border-image: none; height: 30px; text-align: center; color: rgb(62, 61, 60); line-height: 28px; display: inline-block; min-width: 115px;
+}
+.btn_pg_cancel:hover {
+	border: 1px solid rgb(187, 187, 187); border-image: none; color: rgb(51, 51, 51);
+}
+.btn_pg_cartmove {
+	background: rgb(171, 62, 85); margin: 0px 5px; border: 1px solid rgb(171, 62, 85); border-image: none; height: 30px; text-align: center; color: rgb(255, 255, 255); line-height: 28px; display: inline-block; min-width: 115px;
+}
+.btn_pg_cartmove:hover {
+	background: rgb(155, 52, 74); border: 1px solid rgb(155, 52, 74); border-image: none;
+}
+.btn_select {
+	margin: 0px 0px 0px 5px; padding: 0px 3px; border: 1px solid rgb(204, 204, 204); border-image: none; width: 19%; height: 42px; text-align: center; color: rgb(62, 61, 60); font-size: 13px; font-weight: bold; display: inline-block; cursor: pointer;
+}
+.btn_select_cancel {
+	margin: 0px 0px 0px 5px; padding: 0px 3px; border: 1px solid rgb(204, 204, 204); border-image: none; width: 19%; height: 42px; text-align: center; color: rgb(62, 61, 60); font-size: 13px; font-weight: bold; display: inline-block; cursor: pointer;
+}
+.btn_select:hover {
+	border: 1px solid rgb(187, 187, 187); border-image: none; color: rgb(51, 51, 51);
+}
+.btn_select_cancel:hover {
+	border: 1px solid rgb(187, 187, 187); border-image: none; color: rgb(51, 51, 51);
+}
+.btn_goods_restock {
+	background: rgb(171, 62, 85); margin: 0px 0px 0px 5px; padding: 0px 3px; border: 1px solid rgb(171, 62, 85); border-image: none; width: 34%; height: 42px; text-align: center; color: rgb(255, 255, 255); font-size: 14px; font-weight: bold; display: inline-block; cursor: pointer;
+}
+.btn_goods_restock:hover {
+	background: rgb(155, 52, 74); border: 1px solid rgb(155, 52, 74); border-image: none;
+}

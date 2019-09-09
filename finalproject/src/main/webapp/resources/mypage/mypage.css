@@ -1,0 +1,657 @@
+.mypage_zone_tit {
+	margin: 0px; padding: 0px 0px 10px; font-size: 16px;
+}
+.mypage_zone_tit h3 {
+	font-size: 16px; display: inline-block;
+}
+.mypage_zone_tit h4 {
+	font-size: 16px;
+}
+.mypage_zone_tit span {
+	padding: 0px 0px 0px 5px; color: rgb(119, 119, 119); font-size: 12px; font-weight: normal;
+}
+.mypage_shipping .mypage_zone_tit h3 {
+	display: inline-block;
+}
+.mypage_shipping .mypage_zone_tit .pick_list_num {
+	display: inline-block;
+}
+.pick_list_num {
+	padding: 20px 0px 10px; font-size: 14px; display: block;
+}
+.pick_list_num strong {
+	color: rgb(171, 62, 85);
+}
+.pick_list_day {
+	padding: 20px 0px 10px; font-size: 14px; display: block;
+}
+#wrap .no_data {
+	padding: 50px 30px; text-align: center;
+}
+.date_check_box {
+	margin: 0px 0px 35px; padding: 20px 20px 20px 30px; border: 3px solid rgb(238, 238, 238); border-image: none;
+}
+.date_check_box::after {
+	clear: both; display: block; content: "";
+}
+.date_check_box h3 {
+	padding: 6px 15px 0px 0px; color: rgb(119, 119, 119); font-size: 13px; float: left;
+}
+.date_check_list {
+	padding: 0px 10px 0px 0px; float: left;
+}
+.date_check_list button {
+	margin: 0px 0px 0px -1px; border: 1px solid rgb(214, 214, 214); border-image: none; width: 54px; height: 31px; color: rgb(119, 119, 119); font-size: 12px; float: left;
+}
+.date_check_list button:hover {
+	background: rgb(174, 174, 174); color: rgb(255, 255, 255);
+}
+.date_check_list button.on {
+	background: rgb(174, 174, 174); color: rgb(255, 255, 255);
+}
+.date_check_calendar {
+	width: 30.5%; float: left; position: relative;
+}
+.date_check_calendar .anniversary {
+	background: url("../../img/member/icon_calendar.png") no-repeat right; width: 45%;
+}
+.date_faq_list {
+	width: 70%; display: inline-block;
+}
+.date_faq_list h2 {
+	padding: 0px 0px 10px;
+}
+.date_faq_list input[type='text'] {
+	width: 70%;
+}
+.date_faq_txt {
+	padding: 10px 0px 10px 50px; border-left-color: rgb(219, 219, 219); border-left-width: 1px; border-left-style: solid; display: inline-block;
+}
+.date_faq_txt strong {
+	padding: 0px 0px 10px; display: block;
+}
+.fc_delivery_finish {
+	color: rgb(171, 62, 85) !important;
+}
+.fc_refund_finish {
+	color: rgb(171, 62, 85) !important;
+}
+.mypage_main {
+	padding: 0px 0px 50px;
+}
+.mypage_cont {
+	padding: 0px 0px 50px;
+}
+.board_list_table {
+	border-width: 1px 0px 0px; border-style: solid none none; border-color: rgb(60, 60, 60) currentColor currentColor; margin: 0px 0px 20px; border-image: none; width: 100%; text-align: center; border-collapse: collapse; border-spacing: 0;
+}
+.board_list_table th {
+	background: rgb(251, 251, 251); padding: 10px 10px 10px 14px; border-bottom-color: rgb(219, 219, 219); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.board_list_table td {
+	padding: 13px 10px 15px; border-bottom-color: rgb(219, 219, 219); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.board_list_table .board_img {
+	border: 1px solid rgb(235, 235, 235); border-image: none; text-align: center; overflow: hidden; position: relative;
+}
+.board_list_table .board_img a {
+	height: 100%; vertical-align: middle; display: table-cell;
+}
+.board_list_table .board_tit {
+	text-align: left; vertical-align: middle;
+}
+.board_list_table .board_tit strong {
+	font-weight: normal;
+}
+.board_list_table .board_tit strong > span {
+	color: rgb(171, 62, 85);
+}
+.board_list_table .board_tit.on strong {
+	font-weight: bold;
+}
+.board_list_table .board_tit img {
+	margin: 0px 2px; vertical-align: middle;
+}
+.board_list_table .board_tit .reply {
+	
+}
+.board_list_table .board_tit .reply {
+	background: url("../../img/icon/board/icon_comment_reply.png") no-repeat 8px 4px; margin: 0px 0px 0px 15px; padding: 0px 0px 0px 20px;
+}
+.mypage_table_type {
+	
+}
+.mypage_table_type .td_left {
+	text-align: left;
+}
+.mypage_table_type table {
+	border: 0px currentColor; border-image: none; width: 100%; text-align: center; border-collapse: collapse; border-spacing: 0;
+}
+.mypage_table_type th {
+	background: rgb(247, 247, 247); padding: 9px 10px 10px; border-top-color: rgb(153, 153, 153); border-bottom-color: rgb(219, 219, 219); border-top-width: 1px; border-bottom-width: 1px; border-top-style: solid; border-bottom-style: solid;
+}
+.mypage_table_type td {
+	padding: 15px 10px 14px; height: 31px; color: rgb(119, 119, 119); border-bottom-color: rgb(219, 219, 219); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.mypage_table_type td > strong {
+	color: rgb(61, 92, 89);
+}
+.mypage_table_type .btn_down_box {
+	
+}
+.mypage_table_type th .form_element {
+	vertical-align: middle;
+}
+.mypage_table_type .text_info {
+	padding: 2px 0px; color: rgb(153, 153, 153); font-size: 11px; display: block;
+}
+.mypage_table_type .coupon_price {
+	color: rgb(51, 51, 51); font-size: 14px;
+}
+.mypage_table_type .coupon_price b {
+	padding: 0px 2px 0px 0px; font-size: 16px;
+}
+.mypage_table_type .row_line td {
+	border-bottom-color: rgb(235, 235, 235); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.mypage_table_type table td.order_day_num {
+	border-right-color: rgb(237, 237, 237); border-bottom-color: rgb(219, 219, 219); border-right-width: 1px; border-bottom-width: 1px; border-right-style: dotted; border-bottom-style: solid;
+}
+.mypage_table_type .btn_claim > span {
+	margin: 7px 0px 0px; display: inline-block;
+}
+.mypage_table_type .pick_add_cont {
+	display: table; position: relative;
+}
+.mypage_table_type .pick_add_cont .pick_add_img {
+	width: 38px; vertical-align: top; display: table-cell;
+}
+.mypage_table_type .pick_add_cont .pick_add_img img {
+	border: 1px solid rgb(219, 219, 219); border-image: none; height: auto; vertical-align: middle;
+}
+.body-wish-list .mypage_table_type .pick_add_cont .pick_add_img img {
+	width: 100%;
+}
+.mypage_table_type .pick_add_cont .pick_add_info {
+	padding: 0px 0px 0px 10px; vertical-align: middle; display: table-cell; -ms-word-break: break-all;
+}
+.mypage_table_type .pick_add_cont .pick_add_info em {
+	color: rgb(51, 51, 51); font-weight: bold; display: block;
+}
+.mypage_table_type .pick_add_cont .text_type_cont {
+	padding: 3px 0px; color: rgb(169, 169, 169); line-height: 1; font-size: 11px; display: block;
+}
+.mypage_table_type .pick_add_cont .pick_add_plus {
+	background: rgb(149, 149, 149); margin: 15px 10px 0px 0px; padding: 1px 5px 3px; color: rgb(255, 255, 255); font-size: 11px; display: inline-block;
+}
+.mypage_table_type .order_num_link {
+	color: rgb(50, 156, 255); font-weight: bold; border-bottom-color: rgb(50, 156, 255); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.mypage_table_type em + .btn_gray_list {
+	margin: 5px 0px 0px;
+}
+.mypage_table_type strong + .btn_gray_list {
+	margin: 5px 0px 0px;
+}
+.mypage_table_type .exchange_add_info {
+	padding: 2px; text-align: center; color: rgb(255, 255, 255); line-height: 1; font-size: 11px; font-weight: bold; vertical-align: baseline; display: inline; white-space: nowrap; background-color: rgb(51, 122, 183);
+}
+.mypage_table_type .td_chk .form_element label.check_s {
+	padding: 0px 0px 0px 5px;
+}
+.mypage_table_type .td_chk {
+	vertical-align: top;
+}
+.mypage_table_type .table_left {
+	border-top-color: rgb(153, 153, 153); border-top-width: 1px; border-top-style: solid;
+}
+.mypage_table_type .table_left th {
+	background: rgb(247, 247, 247); padding: 15px 10px 14px 20px; text-align: left; border-top-color: currentColor; border-top-width: 0px; border-top-style: none;
+}
+.mypage_table_type .table_left td {
+	padding: 12px 10px 11px 15px; height: 31px; text-align: left;
+}
+.mypage_table_type .table_left textarea {
+	width: 95%;
+}
+.mypage_top_info {
+	background: rgb(247, 249, 248); margin: 0px 0px 35px; border: 2px solid rgb(227, 227, 227); border-image: none; width: 100%; display: table;
+}
+.mypage_top_txt {
+	background: rgb(255, 255, 255); padding: 20px 0px 20px 40px; width: 30%; text-align: left; vertical-align: middle; display: table-cell;
+}
+.mypage_top_txt .grade_img {
+	margin: 0px auto; padding: 0px 0px 10px; display: block; max-width: 70px;
+}
+.mypage_top_txt .grade_img img {
+	max-width: 70px;
+}
+.mypage_top_txt .grade_txt {
+	
+}
+.mypage_top_txt .grade_txt strong {
+	font-size: 16px; display: block;
+}
+.mypage_top_txt .grade_txt span {
+	color: rgb(51, 51, 51);
+}
+.mypage_top_txt .grade_txt .btn_layer {
+	margin: 4px 0px 0px;
+}
+.mypage_top_wallet {
+	background: rgb(255, 255, 255); width: 69%; vertical-align: middle; display: table-cell;
+}
+.mypage_top_wallet ul {
+	padding: 27px 10px; width: 100%; line-height: 1; font-size: 0px;
+}
+.mypage_top_wallet ul li {
+	width: 33%; text-align: center; font-size: 14px; border-left-color: rgb(225, 227, 226); border-left-width: 1px; border-left-style: solid; display: inline-block;
+}
+.mypage_top_wallet ul li:first-child {
+	border-left-color: currentColor; border-left-width: 0px; border-left-style: none;
+}
+.mypage_top_wallet li span {
+	padding: 0px 10px; display: block;
+}
+.mypage_top_wallet li em {
+	padding: 15px 0px; font-weight: bold; display: block;
+}
+.mypage_top_wallet li strong {
+	padding: 0px 3px 0px 0px; color: rgb(142, 197, 54); font-size: 24px;
+}
+.mypage_order_info_cont {
+	border-width: 1px; border-style: solid; border-color: rgb(153, 153, 153) rgb(227, 227, 227) rgb(227, 227, 227); margin: 0px 0px 30px; padding: 35px 0px; border-image: none; text-align: center; font-size: 0px;
+}
+.mypage_order_info_cont ol {
+	width: 80%; font-size: 0px; vertical-align: middle; border-right-color: rgb(227, 227, 227); border-right-width: 1px; border-right-style: solid; display: inline-block;
+}
+.mypage_order_info_cont ol li {
+	background: url("../../img/mypage/mypgae_ing_next_bg.png") no-repeat left 50px; padding: 0px 10px 0px 30px; width: 10%; text-align: center; font-size: 13px; display: inline-block; min-width: 66px;
+}
+.mypage_order_info_cont ol li:first-child {
+	background: 0px; padding-left: 10px;
+}
+.mypage_order_info_cont ol li b {
+	padding: 0px 0px 15px; display: block;
+}
+.mypage_order_info_cont ol li strong {
+	background: url("../../img/mypage/mypgae_ing_list_bg.png") no-repeat 0px 0px; padding: 10px 0px 0px; width: 52px; height: 52px; text-align: center; color: rgb(255, 255, 255); font-size: 18px; vertical-align: middle; display: inline-block;
+}
+.mypage_order_info_cont .active strong {
+	background: url("../../img/mypage/mypgae_ing_deliver_bg.png") no-repeat 0px 0px;
+}
+.mypage_order_info_cont .order_case_list {
+	width: 19%; text-align: center; font-size: 0px; vertical-align: middle; display: inline-block;
+}
+.mypage_order_info_cont .order_case_list ul {
+	width: 70%; font-size: 0px; display: inline-block;
+}
+.mypage_order_info_cont .order_case_list ul li {
+	padding: 8px 5px 10px; text-align: left; font-size: 12px; border-top-color: rgb(191, 191, 191); border-top-width: 1px; border-top-style: dotted;
+}
+.mypage_order_info_cont .order_case_list ul li:first-child {
+	border-top-color: currentColor; border-top-width: 0px; border-top-style: none;
+}
+.mypage_order_info_cont .order_case_list ul li span {
+	float: right;
+}
+.mypage_order_info_cont .order_case_list ul li span > em {
+	padding: 0px 3px 0px 0px; color: rgb(171, 62, 85); font-size: 15px;
+}
+.mypage_order_info_cont .order_case_list ul li span > strong {
+	padding: 0px 3px 0px 0px; color: rgb(171, 62, 85); font-size: 15px;
+}
+.mypage_lately_info {
+	position: relative;
+}
+.mypage_lately_info_cont {
+	
+}
+.mypage_lately_goods {
+	margin: 50px 0px 0px;
+}
+.mypage_lately_goods .mypage_zone_tit {
+	margin: 0px 0px 20px; border-bottom-color: rgb(153, 153, 153); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.mypage_lately_goods .goods_list_cont ul li {
+	margin-top: 10px;
+}
+.mypage_claim_cont {
+	margin: 0px 0px 50px;
+}
+.mypage_claim_cont .mypage_table_type td strong {
+	color: rgb(51, 51, 51);
+}
+.mypage_claim_reason {
+	margin: 50px 0px 0px;
+}
+.mypage_claim_info {
+	margin: 50px 0px 0px;
+}
+.mypage_claim_select select {
+	width: 200px;
+}
+.mypage_claim_info input[type='text'] {
+	width: 200px;
+}
+.mypage_breakdown_tab {
+	
+}
+.mypage_breakdown_tab {
+	padding: 0px; border-bottom-color: rgb(187, 187, 187); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.mypage_breakdown_tab ul {
+	margin: 0px auto; width: 100%; height: 58px; font-size: 0px; float: none;
+}
+.mypage_breakdown_tab li {
+	text-align: center; font-size: 12px; display: inline-block; position: relative; z-index: 10; min-width: 200px;
+}
+.mypage_breakdown_tab li.on {
+	z-index: 20;
+}
+.mypage_breakdown_tab li a {
+	background: rgb(255, 255, 255); border-width: 1px; border-style: solid; border-color: rgb(218, 218, 218) rgb(218, 218, 218) rgb(187, 187, 187); margin: 0px 0px 0px -1px; padding: 10px 20px 12px; border-image: none; color: rgb(153, 153, 153); font-size: 13px; display: block;
+}
+.mypage_breakdown_tab li.on a {
+	border-width: 1px; border-style: solid; border-color: rgb(187, 187, 187) rgb(187, 187, 187) rgb(255, 255, 255); border-image: none; color: rgb(51, 51, 51); padding-top: 18px; font-weight: bold; margin-top: 8px;
+}
+.mypage_breakdown_tab li.on a span {
+	top: -3px; display: inline-block; position: relative;
+}
+.mypage_breakdown_tab li:first-child a {
+	margin-left: 0px;
+}
+.mypage_breakdown_tab li a strong {
+	color: rgb(171, 62, 85);
+}
+.mypage_wish_list {
+	
+}
+.mypage_wish_list .btn_wish_choice_del {
+	margin: 10px 0px 0px;
+}
+.mypage_wish_list .btn_wish_choice_cart {
+	margin: 10px 0px 0px;
+}
+.mypage_wish_list .mypage_table_type .icon_time_sale {
+	margin: 0px 0px 5px; display: block; position: relative;
+}
+.mypage_wish_list .chk_none {
+	background: url("../../img/icon/etc/icon_warning.png") no-repeat left 8px; padding: 5px 0px 5px 19px; color: rgb(62, 61, 60); font-weight: normal; display: block; min-height: 17px;
+}
+.pick_add_list {
+	margin: 10px 5px 0px 0px; padding: 2px 0px 0px; border-top-color: rgb(219, 219, 219); border-top-width: 1px; border-top-style: dotted;
+}
+.pick_add_list .pick_add_cont {
+	margin: 6px 0px 0px;
+}
+.pick_add_list .pick_add_cont .pick_add_img {
+	vertical-align: top;
+}
+.pick_add_list .pick_add_cont .pick_add_info em {
+	font-weight: normal; display: inline-block;
+}
+.pick_add_list .pick_add_cont .pick_add_info em > a > img {
+	margin: 2px 0px 0px;
+}
+.pick_add_list .pick_add_cont .pick_add_info .chk_none {
+	margin: 0px;
+}
+.cart_cont_list > table .img {
+	margin: 0px 10px 0px 0px; border: 1px solid rgb(219, 219, 219); border-image: none; float: left;
+}
+.mypage_coupon_name {
+	
+}
+.mypage_coupon_name strong {
+	padding: 5px 0px 0px; color: rgb(51, 51, 51); display: block;
+}
+.coupon_date_day {
+	padding: 0px 0px 3px; width: 130px; display: inline-block;
+}
+.coupon_before_use {
+	padding: 2px 10px 3px; border: 1px solid rgb(171, 62, 85); border-image: none; width: 66px; text-align: center; color: rgb(171, 62, 85); line-height: 1; font-size: 11px; display: inline-block;
+}
+.coupon_finish_use {
+	padding: 1px 10px 3px; border: 1px solid rgb(204, 204, 204); border-image: none; width: 66px; text-align: center; color: rgb(90, 90, 90); line-height: 1; font-size: 11px; display: inline-block;
+}
+.coupon_cart_use {
+	padding: 1px 10px 3px; border: 1px solid rgb(204, 204, 204); border-image: none; width: 66px; text-align: center; color: rgb(90, 90, 90); line-height: 1; font-size: 11px; display: inline-block;
+}
+.coupon_order_use {
+	padding: 1px 10px 3px; border: 1px solid rgb(204, 204, 204); border-image: none; width: 66px; text-align: center; color: rgb(90, 90, 90); line-height: 1; font-size: 11px; display: inline-block;
+}
+.coupon_expire_use {
+	padding: 1px 10px 3px; border: 1px solid rgb(204, 204, 204); border-image: none; width: 66px; text-align: center; color: rgb(90, 90, 90); line-height: 1; font-size: 11px; display: inline-block;
+}
+.mypage_table_type .td_cash span {
+	width: 80px; text-align: right; display: inline-block;
+}
+.mypage_table_type .td_cash strong {
+	width: 80px; text-align: right; display: inline-block;
+}
+.mypage_table_type .td_cash .cash_minus {
+	color: rgb(50, 156, 255);
+}
+.mypage_table_type .td_cash .cash_plus {
+	color: rgb(62, 61, 60);
+}
+.cash_date_day {
+	width: 150px; display: inline-block;
+}
+.my_page_password {
+	
+}
+.my_page_password p {
+	text-align: center; font-size: 14px;
+}
+.my_page_password .mypage_zone_tit {
+	margin: 0px 0px 50px; padding: 0px 0px 10px; font-size: 14px; border-bottom-color: rgb(153, 153, 153); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.my_page_password .id_pw_cont {
+	background: rgb(247, 249, 248); margin: 30px 0px; padding: 26px 0px 24px; border: 1px solid rgb(218, 218, 218); border-image: none; text-align: center; overflow: hidden;
+}
+.my_page_password .id_pw_cont dl {
+	padding: 5px 30px 5px 0px; text-align: center; font-size: 0px; vertical-align: top; display: inline-block;
+}
+.my_page_password .id_pw_cont dt {
+	padding: 5px 10px 0px 0px; font-size: 14px; font-weight: bold; vertical-align: top; display: inline-block;
+}
+.my_page_password .id_pw_cont dd {
+	text-align: left; font-size: 14px; display: inline-block;
+}
+.my_page_password .id_pw_cont dd strong {
+	padding: 5px 0px 0px; color: rgb(171, 62, 85); display: block;
+}
+.my_page_password .id_pw_cont dd .text_warning {
+	font-size: 12px;
+}
+.my_page_password .sns_cont {
+	background: rgb(255, 255, 255); margin: 30px 0px; padding: 35px 0px; border: 1px solid rgb(218, 218, 218); border-image: none; text-align: center;
+}
+.my_page {
+	
+}
+.my_page h3 {
+	font-weight: bold;
+}
+.my_page .mypage_zone_tit {
+	margin: 0px 0px 50px; padding: 0px 0px 10px; font-size: 14px; border-bottom-color: rgb(60, 60, 60); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.my_page .join_base_wrap .member_cont {
+	margin: 0px; padding: 0px; width: 100%;
+}
+.site_info_box {
+	margin: 40px 0px 0px;
+}
+.site_sns_info {
+	padding: 30px 20px; border: 1px solid rgb(218, 218, 218); border-image: none;
+}
+.site_sns_info .site_sns_list {
+	
+}
+.site_sns_info .site_sns_list h4 {
+	margin: 0px 14px 0px 0px; color: rgb(119, 119, 119); display: inline-block;
+}
+.site_sns_info .site_sns_list em {
+	padding: 0px 0px 15px; display: block;
+}
+.site_sns_info .site_sns_list span {
+	margin: 0px; vertical-align: middle; display: inline-block;
+}
+.site_sns_info .site_sns_list a {
+	margin: 0px 6px 10px 0px; line-height: 1; vertical-align: top; display: inline-block;
+}
+.site_sns_info .site_sns_list a > span {
+	margin: 0px; font-size: 13px; display: block;
+}
+.site_sns_info .site_sns_list img {
+	margin: 0px;
+}
+.site_sns_info .site_sns_list .my_facebook {
+	color: rgb(59, 89, 152);
+}
+.site_sns_info .site_sns_list .my_payco {
+	color: rgb(250, 74, 74);
+}
+.site_sns_info .site_sns_list .my_naver {
+	color: rgb(45, 180, 0);
+}
+.site_sns_info .site_sns_list .my_kakao {
+	color: rgb(56, 30, 31);
+}
+.site_sns_info .site_sns_list_disconnect span {
+	margin: 0px 6px 0px 0px; vertical-align: middle; display: inline-block;
+}
+.site_sns_info .site_sns_list_disconnect a {
+	background: rgb(250, 250, 250); margin: 0px 6px 0px 0px; border: 1px solid rgb(207, 207, 207); border-image: none; width: 225px; height: 42px; text-align: center; line-height: 1; vertical-align: middle; display: inline-block;
+}
+.site_sns_info .site_sns_list_disconnect a > span {
+	margin: 14px 0px 0px; font-size: 13px; display: block;
+}
+.site_sns_info .site_sns_list_disconnect img {
+	margin: 0px 8px 0px 0px;
+}
+.my_page .join_agreement_cont {
+	margin: 40px 0px 0px;
+}
+.my_page .join_agreement_cont h3 {
+	margin: 0px 0px 10px;
+}
+.hack_out {
+	margin: 0px 0px 50px;
+}
+.hack_out .mypage_zone_tit {
+	margin: 0px 0px 50px; padding: 0px 0px 10px; font-size: 14px; border-bottom-color: rgb(153, 153, 153); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.hack_out .mypage_unregister .mypage_zone_tit {
+	margin: 0px; padding: 0px 0px 10px; font-size: 14px; border-bottom-color: currentColor; border-bottom-width: 0px; border-bottom-style: none;
+}
+.hack_out .mypage_unregister .unregister_info {
+	margin: 0px 0px 40px; padding: 15px; border: 1px solid rgb(218, 218, 218); border-image: none; color: rgb(113, 113, 113);
+}
+.hack_out .mypage_unregister .hack_out_list li {
+	padding: 0px 0px 7px; width: 35%; float: left;
+}
+.hack_out .mypage_unregister textarea {
+	width: 98%; height: 100px;
+}
+.mypage_shipping {
+	position: relative;
+}
+.mypage_shipping_cont {
+	position: relative;
+}
+.mypage_shipping_cont .pick_list_num {
+	left: 92px; top: -50px; font-size: 13px; position: absolute;
+}
+.mypage_shipping_cont .mypage_table_type span {
+	display: block;
+}
+.mypage_shipping_cont .mypage_table_type .btn_gray_list {
+	margin: 5px 0px;
+}
+.mypage_table_type .td_phone span {
+	width: 150px;
+}
+.order_num_view {
+	padding: 0px 0px 0px 10px; color: rgb(50, 156, 255); font-size: 12px;
+}
+.order_view_info {
+	
+}
+.order_view_info h4 {
+	margin: 50px 0px 0px;
+}
+.order_view_info .total_pay_money {
+	font-size: 20px;
+}
+.payment_info {
+	
+}
+.payment_info .btn_layer {
+	margin-top: 5px; display: block;
+}
+.discount_benefit {
+	
+}
+.discount_benefit dl {
+	margin: 5px 0px 0px; width: 100%; float: left;
+}
+.discount_benefit dt {
+	width: 60px; float: left;
+}
+.discount_benefit dd {
+	width: 75px; text-align: right; float: left;
+}
+.pay_with_list {
+	color: rgb(51, 51, 51);
+}
+.pay_with_list > strong {
+	font-size: 13px; display: block;
+}
+.pay_with_list ul {
+	margin: 5px 0px 0px;
+}
+.pay_with_list ul li {
+	padding: 2px 0px;
+}
+.pay_with_list .deposit_money {
+	
+}
+.saving_mileage {
+	color: rgb(51, 51, 51); overflow: hidden;
+}
+.saving_mileage > strong {
+	font-size: 13px; display: block;
+}
+.saving_mileage dl {
+	margin: 5px 0px 0px; width: 100%; float: left;
+}
+.saving_mileage dt {
+	width: 90px; float: left;
+}
+.saving_mileage dd {
+	width: 75px; text-align: right; float: left;
+}
+.admin_text {
+	padding: 5px 0px 0px;
+}
+.delivery-method-layer {
+	background: rgb(255, 255, 255); width: 500px; position: relative; min-height: 300px;
+}
+.delivery-method-layer .wrap {
+	padding: 0px 0px 0px 20px; border: 2px solid rgb(85, 85, 85); border-image: none; position: relative; min-height: 296px;
+}
+.delivery-method-layer .wrap h4 {
+	margin: 0px 17px 0px 0px; padding: 14px 0px; color: rgb(0, 0, 0); font-size: 18px; border-bottom-color: rgb(113, 113, 113); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.delivery-method-layer .delivery-method-layer-table {
+	margin: 0px 17px 0px 0px;
+}
+.delivery-method-layer .delivery-method-layer-table table {
+	border-top-color: rgb(219, 219, 219) !important; border-top-width: 1px !important; border-top-style: solid !important;
+}
+.delivery-method-layer .delivery-method-layer-table table tr th {
+	border-top-color: currentColor; border-top-width: 0px; border-top-style: none;
+}

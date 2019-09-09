@@ -1,0 +1,996 @@
+.member_wrap {
+	margin: 20px auto 40px; width: 593px;
+}
+.member_pwd_wrap {
+	margin: 20px auto 40px;
+}
+.member_tit h2 {
+	margin: 0px 0px 20px; font-size: 25px;
+}
+.member_cont {
+	padding: 70px 60px; border: 1px solid rgb(219, 219, 219); border-image: none;
+}
+.member_cont h3 {
+	color: rgb(34, 34, 34); font-size: 18px; font-weight: normal;
+}
+.member_cont h3 + p {
+	padding: 5px 0px 8px; color: rgb(190, 190, 188);
+}
+.login_input {
+	border-top-color: rgb(219, 219, 219); border-top-width: 1px; border-top-style: solid;
+}
+.certify_confirm_input {
+	border-top-color: rgb(219, 219, 219); border-top-width: 1px; border-top-style: solid;
+}
+.wake_base_box .login_input {
+	border-top-color: currentColor; border-top-width: 0px; border-top-style: none;
+}
+.member_cont .btn_center_box {
+	margin: 35px 0px 0px;
+}
+.member_warning + .btn_center_box {
+	margin: 35px 0px 0px;
+}
+.join_ok_box .btn_center_box {
+	padding: 30px 0px 0px; border-top-color: rgb(219, 219, 219); border-top-width: 1px; border-top-style: solid;
+}
+.member_cont .member_login_box h3 {
+	color: rgb(34, 34, 34); font-size: 18px; font-weight: normal;
+}
+.member_cont .member_login_box .member_login {
+	margin: 0px 0px 20px;
+}
+.member_cont .member_login_box .login_input_sec {
+	overflow: hidden;
+}
+.member_cont .member_login_box .login_input_sec > div {
+	float: left;
+}
+.member_cont .member_login_box .login_input_sec input {
+	margin: 15px 0px 10px; padding: 0px 0px 0px 8px; border: 1px solid rgb(208, 208, 208); border-image: none; width: 292px; height: 36px; color: rgb(151, 157, 157); display: block;
+}
+.member_cont .member_login_box .login_input_sec input[type='password'] {
+	font-family: Malgun Gothic,"¸¼Àº °íµñ",AppleGothic,Dotum,"µ¸¿ò",sans-serif;
+}
+.member_cont .member_login_box .login_input_sec button {
+	background: rgb(61, 92, 89); margin: 15px 0px 0px; border-radius: 10px; border: 1px solid rgb(61, 92, 89); border-image: none; width: 158px; height: 91px; color: rgb(255, 255, 255); font-size: 15px; font-weight: bold; float: right; cursor: pointer;
+}
+.member_cont .member_login_box .login_input_sec button:hover {
+	background: rgb(61, 92, 89); border: 1px solid rgb(61, 92, 89); border-image: none;
+}
+.member_cont .member_login_box .id_chk {
+	padding: 0px 0px 26px;
+}
+.member_cont .member_login_box .id_chk p {
+	padding: 6px 0px 0px;
+}
+.member_cont .member_login_box .id_chk span {
+	display: inline-block;
+}
+.member_cont .member_login_box .id_chk input {
+	display: none;
+}
+.member_cont .btn_login_box {
+	margin: 20px 0px 0px; padding: 20px 0px 0px; overflow: hidden; border-top-color: rgb(220, 220, 220); border-top-width: 1px; border-top-style: solid;
+}
+.member_cont .btn_login_box li {
+	margin: 0px 0px 0px 10px; float: left;
+}
+.member_cont .btn_login_box li:first-child {
+	margin: 0px;
+}
+.member_cont .nonmember_join_box {
+	margin: 40px 0px 0px;
+}
+.member_cont .nonmember_join_box .btn_center_box {
+	margin: 0px;
+}
+.member_cont .nonmember_join_box .btn_member_black {
+	margin: 20px 0px 0px; width: 100%;
+}
+.member_cont .nonmember_order_box {
+	margin: 40px 0px 0px;
+}
+.member_cont .nonmember_order_box .order_input_sec {
+	overflow: hidden;
+}
+.member_cont .nonmember_order_box .order_input_sec > div {
+	float: left;
+}
+.member_cont .nonmember_order_box .order_input_sec input {
+	margin: 15px 0px 10px; padding: 0px 0px 0px 8px; border: 1px solid rgb(208, 208, 208); border-image: none; width: 292px; height: 36px; color: rgb(151, 157, 157); display: block;
+}
+.member_cont .nonmember_order_box .order_input_sec button {
+	background: rgb(255, 255, 255); margin: 15px 0px 0px; border-radius: 10px; border: 1px solid rgb(61, 92, 89); border-image: none; width: 158px; height: 91px; color: rgb(61, 92, 89); font-size: 15px; font-weight: bold; float: right; cursor: pointer;
+}
+.member_cont .nonmember_order_box .order_input_sec button:hover {
+	border: 1px solid rgb(61, 92, 89); border-image: none; color: rgb(61, 92, 89);
+}
+.member_cont .nonmember_order_box p {
+	background: url("../../img/member/icon_caution.png") no-repeat 0px 3px; padding: 0px 0px 0px 18px; color: rgb(109, 109, 109);
+}
+.find_password_box .login_input {
+	padding: 30px 0px 0px;
+}
+.find_password_box .login_input .member_warning {
+	margin: 0px 0px 0px 100px; width: 370px;
+}
+.find_password_box .login_input input[type=text] {
+	margin: 10px 0px 0px; width: 263px;
+}
+.find_password_box .login_input input[type=password] {
+	margin: 10px 0px 0px; width: 263px;
+}
+.find_password_box .login_input input {
+	
+}
+.find_password_reset_box .login_input {
+	padding: 30px 75px 0px 76px; width: 320px; text-align: center;
+}
+.find_password_reset_box .login_input input {
+	margin: 15px 0px 0px; padding: 0px 0px 0px 5px; width: 320px;
+}
+.find_password_reset_box .login_input strong {
+	padding: 3px 0px 0px; text-align: left; color: rgb(146, 146, 146); font-weight: normal; display: block;
+}
+.find_complete_box {
+	text-align: center; min-height: 130px;
+}
+.find_complete_box p {
+	padding: 15px 0px 50px; color: rgb(35, 35, 35); font-size: 18px;
+}
+.find_complete_box .find_id_name {
+	color: rgb(171, 62, 85); font-size: 22px;
+}
+.find_id_box .find_id_sec h3 {
+	color: rgb(34, 34, 34); font-size: 18px; font-weight: normal;
+}
+.find_id_sec .login_input {
+	margin: 10px 0px 0px; overflow: hidden; border-top-color: currentColor; border-top-width: 0px; border-top-style: none;
+}
+.find_id_sec .login_input > div {
+	float: left;
+}
+.find_id_sec .login_input input {
+	margin: 15px 0px 10px; padding: 0px 0px 0px 8px; border: 1px solid rgb(208, 208, 208); border-image: none; width: 292px; height: 36px; color: rgb(151, 157, 157); display: block;
+}
+.find_id_sec > p {
+	color: rgb(61, 92, 89);
+}
+.find_id_box .btn_member_sec {
+	margin: 20px 0px 0px; border-top-color: rgb(219, 219, 219); border-top-width: 1px; border-top-style: solid;
+}
+.find_id_box .btn_member_sec ul {
+	margin: 20px 0px 0px; text-align: center; overflow: hidden; font-size: 0px;
+}
+.find_id_box .btn_member_sec li {
+	margin: 0px 0px 0px 10px; display: inline-block;
+}
+.find_id_box .btn_member_sec li:first-child {
+	margin: 0px;
+}
+.join_ok_box .join_ok_tit {
+	background: url("../../img/member/img_join_ok.png") no-repeat center 0px; padding: 50px 0px 0px; text-align: center;
+}
+.join_ok_box .join_ok_tit .complete {
+	padding: 20px 0px 0px; color: rgb(34, 34, 34); font-size: 18px;
+}
+.join_ok_box .join_ok_tit .complete strong {
+	font-weight: bold;
+}
+.join_ok_box .join_ok_tit p {
+	padding: 20px 0px; color: rgb(152, 152, 152); letter-spacing: -0.5px;
+}
+.join_ok_box .join_ok_tit p span {
+	color: rgb(34, 34, 34); font-weight: bold;
+}
+.join_ok_box .btn_member_sec {
+	border-top-color: rgb(219, 219, 219); border-top-width: 1px; border-top-style: solid;
+}
+.join_ok_box .btn_member_sec ul {
+	margin: 20px 0px 0px; text-align: center; overflow: hidden; font-size: 0px;
+}
+.join_ok_box .btn_member_sec li {
+	margin: 0px 0px 0px 10px; display: inline-block;
+}
+.join_ok_box .btn_member_sec li:first-child {
+	margin: 0px;
+}
+.join_ok_box .btn_member_sec li button {
+	background: rgb(255, 255, 255); border-radius: 10px; border: 1px solid rgb(204, 204, 204); border-image: none; width: 150px; height: 42px; color: rgb(62, 61, 60); font-size: 13px; font-weight: bold; cursor: pointer;
+}
+.join_ok_box .btn_member_sec li button:hover {
+	border: 1px solid rgb(187, 187, 187); border-image: none; color: rgb(51, 51, 51);
+}
+.join_ok_box .btn_member_sec .btn_login {
+	background: rgb(61, 92, 89); border: 1px solid rgb(61, 92, 89); border-image: none; color: rgb(255, 255, 255);
+}
+.join_ok_box .btn_member_sec .btn_login:hover {
+	background: rgb(61, 92, 89); border: 1px solid rgb(61, 92, 89); border-image: none; color: rgb(255, 255, 255);
+}
+.join_wait_box .join_wait_tit {
+	background: url("../../img/member/img_join_wait.png") no-repeat center 0px; padding: 35px 0px 20px; text-align: center; border-bottom-color: rgb(219, 219, 219); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.join_wait_box .join_wait_tit .complete {
+	padding: 20px 0px 0px; color: rgb(34, 34, 34); font-size: 18px;
+}
+.join_wait_box .join_wait_tit .complete strong {
+	color: rgb(171, 62, 85); font-weight: bold;
+}
+.join_wait_box .join_wait_tit p {
+	padding: 20px 0px; color: rgb(152, 152, 152); line-height: 20px; letter-spacing: -0.5px;
+}
+.join_wait_box .join_wait_tit p span {
+	color: rgb(34, 34, 34); font-weight: bold;
+}
+.join_wait_box .join_wait_tit + .btn_center_box {
+	margin: 20px 0px 0px; padding: 30px 0px 0px;
+}
+.join_wait_box .join_wait_14under {
+	margin: 30px 0px 0px; padding: 20px; border: 1px solid rgb(219, 219, 219); border-image: none; line-height: 1.6;
+}
+.join_wait_box .join_wait_14under dl {
+	
+}
+.join_wait_box .join_wait_14under dt {
+	background: url("../../img/member/icon_caution02.png") no-repeat 0px 3px; padding: 0px 0px 0px 18px;
+}
+.join_wait_box .join_wait_14under dd {
+	color: rgb(152, 152, 152);
+}
+.join_wait_box .link_blank:hover {
+	text-decoration: underline;
+}
+.join_wait_box .btn_gray_list {
+	margin: 20px 0px 0px; display: block;
+}
+.user_certify_box .user_certify_tit > p {
+	color: rgb(190, 190, 188);
+}
+.user_certify_box .user_certify_list {
+	padding: 30px 0px 0px;
+}
+.user_certify_box .user_certify_list li {
+	padding: 0px 0px 18px;
+}
+.user_certify_box .user_certify_list li p {
+	padding: 4px 0px 0px 26px; color: rgb(181, 181, 181);
+}
+.user_certify_box .user_certify_list .form_element strong {
+	color: rgb(142, 142, 142);
+}
+.user_certify_box .btn_member_sec ul {
+	margin: 20px 0px 0px; text-align: center; overflow: hidden; font-size: 0px;
+}
+.user_certify_box .btn_member_sec li {
+	display: inline-block;
+}
+.user_certify_box .btn_member_sec li button {
+	background: rgb(107, 107, 107); border: 1px solid rgb(107, 107, 107); border-image: none; width: 150px; height: 42px; color: rgb(255, 255, 255); font-size: 13px; font-weight: bold; cursor: pointer;
+}
+.user_certify_box .btn_member_sec li button:hover {
+	background: rgb(98, 98, 98); border: 1px solid rgb(98, 98, 98); border-image: none; color: rgb(255, 255, 255);
+}
+.certify_confirm_box .certify_confirm_tit > p {
+	color: rgb(190, 190, 188);
+}
+.certify_confirm_box .certify_confirm_input {
+	padding: 30px 0px 0px; text-align: center;
+}
+.certify_confirm_box .certify_confirm_input > div {
+	display: inline;
+}
+.certify_confirm_box .certify_confirm_input input {
+	padding: 0px 0px 0px 5px; border: 1px solid rgb(221, 221, 221); border-image: none; width: 263px; height: 28px; color: rgb(144, 144, 144);
+}
+.certify_confirm_box .certify_confirm_input p {
+	padding: 5px 0px 0px 11px; color: rgb(146, 146, 146);
+}
+.certify_confirm_box .certify_confirm_input a {
+	color: rgb(18, 30, 30); text-decoration: underline;
+}
+.certify_confirm_box .btn_member_sec ul {
+	margin: 25px 0px 0px; text-align: center; overflow: hidden; font-size: 0px;
+}
+.certify_confirm_box .btn_member_sec li {
+	margin: 0px 0px 0px 10px; display: inline-block;
+}
+.certify_confirm_box .btn_member_sec li:first-child {
+	margin: 0px;
+}
+.wake_base_box .wake_base_tit {
+	border-bottom-color: rgb(219, 219, 219); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.wake_base_box .wake_base_tit .complete {
+	padding: 20px 0px; color: rgb(34, 34, 34); font-size: 18px;
+}
+.wake_base_box .wake_base_tit .complete strong {
+	font-weight: bold;
+}
+.wake_base_box .wake_date {
+	background: rgb(244, 244, 244); padding: 15px 25px 25px; overflow: hidden;
+}
+.wake_base_box .wake_date dl {
+	padding: 10px 0px 0px; width: 50%; float: left;
+}
+.wake_base_box .wake_date dt {
+	color: rgb(170, 170, 170); float: left;
+}
+.wake_base_box .wake_date dd {
+	font-weight: bold;
+}
+.wake_base_box .wake_date dd strong {
+	color: rgb(171, 62, 85);
+}
+.wake_base_box .wake_notice {
+	padding: 20px 0px 30px; color: rgb(121, 121, 121); line-height: 23px; font-size: 12px;
+}
+.wake_base_box .wake_notice em {
+	padding: 10px 0px 0px; font-weight: bold; display: block;
+}
+.wake_base_box .none_wake {
+	border-bottom-color: rgb(219, 219, 219); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.wake_base_box .none_wake p {
+	padding: 30px 0px; text-align: center; color: rgb(134, 134, 134); font-size: 18px;
+}
+.wake_base_box .wake_ok {
+	border-bottom-color: rgb(219, 219, 219); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.wake_base_box .wake_ok p {
+	padding: 30px 0px; text-align: center; color: rgb(134, 134, 134); font-size: 18px;
+}
+.wake_base_box .wake_certify_input {
+	padding: 30px 0px; border-bottom-color: rgb(219, 219, 219); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.wake_base_box .wake_certify_input .wc_info_tip {
+	padding: 0px 0px 25px; text-align: center; letter-spacing: -1px; font-size: 13px;
+}
+#wrap .wake_base_box .wake_certify_input .member_warning {
+	margin: 0px auto; width: 369px; display: block;
+}
+.wake_base_box .wake_certify_input .member_warning strong {
+	padding: 0px 0px 0px 10px; line-height: 31px;
+}
+.wake_base_box .wake_certify_input .member_warning input {
+	width: 90%;
+}
+.wake_base_box .wake_certify_input .member_warning .phone_num {
+	margin: 10px 0px 0px; width: 230px;
+}
+.wake_base_box .wake_certify_input .member_warning .email_num {
+	margin: 10px 0px 0px; width: 230px;
+}
+.wake_base_box .wake_certify_input .member_warning .email_direct {
+	margin: 10px 0px 0px; width: 130px;
+}
+.wake_base_box .wake_certify_input .member_warning .chosen-container {
+	margin: 10px 0px 0px;
+}
+.wake_base_box .user_certify_list {
+	padding: 30px 0px; border-bottom-color: rgb(219, 219, 219); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.wake_base_box .user_certify_list p {
+	text-align: center;
+}
+.wake_base_box .user_certify_list ul {
+	padding: 20px 0px 0px; line-height: 39px;
+}
+.wake_base_box .uc_info_tip {
+	padding: 20px 0px 0px; font-size: 14px;
+}
+.wake_base_box .complete_box {
+	text-align: center; min-height: 130px;
+}
+.wake_base_box .complete_box p {
+	padding: 40px 0px 45px; color: rgb(35, 35, 35); font-size: 18px;
+}
+.wake_base_box .login_input .form_element {
+	display: block;
+}
+.wake_base_box .login_input + .btn_center_box {
+	margin: 35px 0px 0px;
+}
+.wake_base_box .complete_box + .btn_center_box {
+	margin: 35px 0px 0px;
+}
+.wake_base_box .wake_base_tit + .login_input {
+	border-top-color: currentColor; border-top-width: 0px; border-top-style: none;
+}
+.wake_base_box .wake_base_tit + .btn_center_box {
+	margin: 35px 0px 0px;
+}
+.wake_base_box .wake_certify_input + .btn_center_box {
+	margin: 35px 0px 0px;
+}
+#wrap .wake_base_box .wake_certify_input .member_warning.prior_wrong .chosen-single {
+	border: 1px solid rgb(214, 214, 214); border-image: none;
+}
+.wake_complete_box .wake_complete_tit p {
+	padding: 20px 0px; color: rgb(34, 34, 34); font-size: 18px;
+}
+.wake_complete_box .wake_complete_tit p strong {
+	font-weight: bold;
+}
+.wake_complete_box .btn_member_sec {
+	border-top-color: rgb(219, 219, 219); border-top-width: 1px; border-top-style: solid;
+}
+.wake_complete_box .btn_member_sec ul {
+	margin: 20px 0px 0px; text-align: center; overflow: hidden; font-size: 0px;
+}
+.wake_complete_box .btn_member_sec li {
+	display: inline-block;
+}
+.wake_complete_box .btn_member_sec li button {
+	background: rgb(107, 107, 107); border: 1px solid rgb(107, 107, 107); border-image: none; width: 150px; height: 42px; color: rgb(255, 255, 255); font-size: 13px; font-weight: bold; cursor: pointer;
+}
+.wake_complete_box .btn_member_sec li button:hover {
+	background: rgb(98, 98, 98); border: 1px solid rgb(98, 98, 98); border-image: none; color: rgb(255, 255, 255);
+}
+.wake_certify_box .wake_certify_tit .complete {
+	padding: 20px 0px; color: rgb(34, 34, 34); font-size: 18px;
+}
+.wake_certify_box .wake_certify_tit .complete strong {
+	font-weight: bold;
+}
+.wake_certify_box .wake_date {
+	background: rgb(244, 244, 244); padding: 15px 25px 25px; overflow: hidden;
+}
+.wake_certify_box .wake_date dl {
+	padding: 10px 0px 0px; width: 50%; float: left;
+}
+.wake_certify_box .wake_date dt {
+	color: rgb(170, 170, 170); float: left;
+}
+.wake_certify_box .wake_date dd {
+	font-weight: bold;
+}
+.wake_certify_box .wake_notice {
+	padding: 20px 0px 30px; color: rgb(121, 121, 121); line-height: 23px; font-size: 12px;
+}
+.wake_certify_box .wake_notice em {
+	padding: 10px 0px 0px; font-weight: bold; display: block;
+}
+.wake_certify_box .wake_certify_input {
+	padding: 30px 0px; text-align: center; border-top-color: rgb(219, 219, 219); border-bottom-color: rgb(219, 219, 219); border-top-width: 1px; border-bottom-width: 1px; border-top-style: solid; border-bottom-style: solid;
+}
+.wake_certify_box .wake_certify_input input {
+	margin: 15px 0px 20px; width: 330px; height: 36px;
+}
+.wake_certify_box .wake_certify_input a {
+	color: rgb(250, 40, 40);
+}
+.wake_certify_box .btn_member_sec ul {
+	margin: 25px 0px 0px; text-align: center; overflow: hidden; font-size: 0px;
+}
+.wake_certify_box .btn_member_sec li {
+	margin: 0px 0px 0px 10px; display: inline-block;
+}
+.wake_certify_box .btn_member_sec li:first-child {
+	margin: 0px;
+}
+.password_change {
+	padding: 70px 60px; border: 1px solid rgb(219, 219, 219); border-image: none;
+}
+.password_change .password_change_tit {
+	text-align: center;
+}
+.password_change .password_change_tit strong {
+	padding: 0px 0px 10px; font-size: 23px; display: block;
+}
+.password_change .password_change_tit span {
+	color: rgb(34, 34, 34); font-size: 16px;
+}
+.password_change .password_change_tit p {
+	padding: 20px 0px 40px; color: rgb(119, 119, 119); font-size: 12px;
+}
+.password_change .password_change_input {
+	background: rgb(244, 244, 244); padding: 40px 0px 20px; text-align: center;
+}
+.password_change .password_change_input input {
+	margin: 10px 0px 20px; width: 380px;
+}
+.password_change .password_change_input .new_password {
+	margin: 0px auto; padding: 10px 0px 0px; width: 380px; border-top-color: rgb(212, 212, 212); border-top-width: 1px; border-top-style: dotted;
+}
+.password_change .btn_member_sec ul {
+	margin: 25px 0px 30px; text-align: center; overflow: hidden; font-size: 0px;
+}
+.password_change .btn_member_sec li {
+	margin: 0px 0px 0px 10px; display: inline-block;
+}
+.password_change .btn_member_sec li:first-child {
+	margin: 0px;
+}
+.password_change .password_change_tip {
+	background: url("../../img/member/icon_tip.png") no-repeat 0px 0px; margin: 60px 0px 0px; padding: 30px 0px 0px;
+}
+.password_change .password_change_tip p {
+	padding: 10px 0px 0px;
+}
+.join_base_wrap .member_tit {
+	overflow: hidden; border-bottom-color: rgb(219, 219, 219); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.join_base_wrap .member_tit h2 {
+	color: rgb(61, 92, 89); font-size: 25px; margin-bottom: 0px; float: left;
+}
+.join_base_wrap .member_tit ol {
+	line-height: 44px; float: right;
+}
+.join_base_wrap .member_tit ol li {
+	color: rgb(209, 209, 209); font-size: 14px; float: left;
+}
+.join_base_wrap .member_tit .page_on {
+	color: rgb(51, 51, 51); font-weight: bold;
+}
+.join_base_wrap .member_tit li span {
+	font-size: 16px; font-weight: bold;
+}
+.join_base_wrap .member_tit li span > img {
+	padding: 0px 14px; vertical-align: -1px;
+}
+.join_base_wrap .member_cont {
+	margin: 0px auto; border: currentColor; border-image: none; width: 743px;
+}
+.join_base_wrap .member_cont h3 {
+	padding: 0px 0px 17px; color: rgb(34, 34, 34); font-size: 18px;
+}
+.join_base_wrap table th {
+	padding: 10px 25px;
+}
+.join_base_wrap table th span {
+	margin: 0px 0px 0px -10px; padding: 0px 0px 0px 10px;
+}
+.join_base_wrap .important {
+	background: url("../../img/member/icon_dot_03.png") no-repeat 0px;
+}
+.join_type_box .type_select_sec {
+	padding: 40px 0px 60px; border-top-color: rgb(28, 28, 28); border-top-width: 1px; border-top-style: solid;
+}
+.join_type_box .type_select_sec .form_element {
+	display: block;
+}
+.join_type_box .type_select_sec ul {
+	text-align: center;
+}
+.join_type_box .type_select_sec li {
+	padding: 0px 13px; display: inline-block;
+}
+.base_info_box h3 {
+	display: inline-block;
+}
+.base_info_box > span {
+	padding: 0px 0px 0px 10px; color: rgb(61, 92, 89); line-height: 40px; float: right;
+}
+.base_info_box > span img {
+	vertical-align: middle;
+}
+.base_info_box .base_info_sec {
+	border-top-color: rgb(153, 153, 153); border-top-width: 1px; border-top-style: solid;
+}
+.base_info_sec table {
+	width: 100%;
+}
+.base_info_sec table th {
+	background: rgb(251, 251, 251); text-align: left; border-bottom-color: rgb(220, 220, 220); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.base_info_sec table th:first-child {
+	border-left-color: currentColor; border-left-width: medium; border-left-style: none;
+}
+.base_info_sec table td:first-child {
+	border-left-color: currentColor; border-left-width: medium; border-left-style: none;
+}
+.base_info_sec table td {
+	padding: 15px 0px 15px 15px; border-bottom-color: rgb(220, 220, 220); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.base_info_sec table input[type='text'] {
+	width: 380px;
+}
+.base_info_sec table .form_element {
+	margin-top: 5px; display: block;
+}
+.base_info_sec table strong {
+	color: rgb(63, 143, 230); font-weight: normal;
+}
+.member_pw_change {
+	margin: 15px 0px 0px;
+}
+.member_pw_change dl {
+	padding: 5px 0px; font-size: 0px;
+}
+.member_pw_change dt {
+	padding: 5px 0px 0px; width: 120px; font-size: 12px; font-weight: bold; vertical-align: top; display: inline-block;
+}
+.member_pw_change dd {
+	font-size: 12px; display: inline-block;
+}
+.member_pw_change input[type='password'] {
+	width: 260px;
+}
+.business_info_box {
+	margin: 40px 0px 0px;
+}
+.business_info_box .business_info_sec {
+	border-top-color: rgb(28, 28, 28); border-top-width: 1px; border-top-style: solid;
+}
+.business_info_sec table {
+	width: 100%;
+}
+.business_info_sec table th {
+	background: rgb(251, 251, 251); text-align: left; border-bottom-color: rgb(220, 220, 220); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.business_info_sec table th:first-child {
+	border-left-color: currentColor; border-left-width: medium; border-left-style: none;
+}
+.business_info_sec table td:first-child {
+	border-left-color: currentColor; border-left-width: medium; border-left-style: none;
+}
+.business_info_sec table td {
+	padding: 15px 0px 15px 15px; border-bottom-color: rgb(220, 220, 220); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.business_info_sec table input[type='text'] {
+	width: 380px;
+}
+.addition_info_box {
+	margin: 40px 0px 0px;
+}
+.addition_info_box .addition_info_sec {
+	border-top-color: rgb(28, 28, 28); border-top-width: 1px; border-top-style: solid;
+}
+.addition_info_sec table {
+	width: 100%;
+}
+.addition_info_sec table th {
+	background: rgb(251, 251, 251); text-align: left; border-bottom-color: rgb(220, 220, 220); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.addition_info_sec table th:first-child {
+	border-left-color: currentColor; border-left-width: medium; border-left-style: none;
+}
+.addition_info_sec table td:first-child {
+	border-left-color: currentColor; border-left-width: medium; border-left-style: none;
+}
+.addition_info_sec table td {
+	padding: 15px 0px 15px 15px; border-bottom-color: rgb(220, 220, 220); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.addition_info_sec table input[type='text'] {
+	width: 380px;
+}
+.addition_info_sec table li {
+	padding: 0px 30px 0px 0px; float: left;
+}
+.addition_info_sec .hobby_list li {
+	padding: 0px 0px 7px; width: 33%; float: left;
+}
+.addition_info_sec textarea {
+	margin: 0px 0px 10px; width: 98%; height: 100px;
+}
+.addition_info_sec .anniversary {
+	background: url("../../img/member/icon_calendar.png") no-repeat right;
+}
+.join_base_wrap .btn_member_sec ul {
+	margin: 25px 0px 0px; text-align: center; overflow: hidden; font-size: 0px;
+}
+.join_base_wrap .btn_member_sec li {
+	margin: 0px 0px 0px 10px; display: inline-block;
+}
+.join_base_wrap .btn_member_sec li:first-child {
+	margin: 0px;
+}
+.join_agreement_wrap .member_tit {
+	overflow: hidden; border-bottom-color: rgb(153, 153, 153); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.join_agreement_wrap .member_tit h2 {
+	color: rgb(34, 34, 34); font-size: 28px; float: left;
+}
+.join_agreement_wrap .member_tit ol {
+	line-height: 62px; float: right;
+}
+.join_agreement_wrap .member_tit ol li {
+	color: rgb(209, 209, 209); font-size: 14px; float: left;
+}
+.join_agreement_wrap .member_tit .page_on {
+	color: rgb(51, 51, 51);
+}
+.join_agreement_wrap .member_tit li span {
+	font-size: 16px; font-weight: bold;
+}
+.join_agreement_wrap .member_tit li span > img {
+	padding: 0px 14px; vertical-align: -1px;
+}
+.join_agreement_wrap .member_cont {
+	margin: 0px auto; border: currentColor; border-image: none; width: 743px;
+}
+.join_agreement_wrap .member_cont h3 {
+	padding: 0px 0px 17px; color: rgb(34, 34, 34); font-size: 18px; font-weight: normal;
+}
+.join_agreement_wrap .join_agreement_cont {
+	padding: 30px 0px 0px; border-top-color: rgb(153, 153, 153); border-top-width: 1px; border-top-style: solid;
+}
+.join_agreement_cont .form_element em {
+	font-weight: bold;
+}
+.join_agreement_cont .form_element span {
+	color: rgb(113, 113, 113); font-size: 11px;
+}
+.join_agreement_cont .form_element strong {
+	color: rgb(142, 197, 54);
+}
+.join_agreement_cont .form_element strong.choice {
+	color: rgb(171, 62, 85);
+}
+.join_agreement_cont .form_element span > a {
+	background: url("../../img/member/icon_arrow_03.png") no-repeat right; padding: 0px 10px 0px 5px; color: rgb(142, 197, 54); font-size: 12px; text-decoration: underline;
+}
+.join_agreement_cont .form_element span > a:hover {
+	text-decoration: underline;
+}
+.join_agreement_cont .join_agreement_box {
+	margin: 0px 0px 30px;
+}
+.join_agreement_cont .agreement_choice_box {
+	padding: 10px 0px 0px;
+}
+.join_agreement_cont .agreement_choice_box table {
+	width: 100%;
+}
+.join_agreement_cont .agreement_choice_box table th {
+	background: rgb(251, 251, 251); padding: 20px 0px; border-top-color: rgb(153, 153, 153); border-left-color: rgb(220, 220, 220); border-top-width: 1px; border-left-width: 1px; border-top-style: solid; border-left-style: solid;
+}
+.join_agreement_cont .agreement_choice_box table th:first-child {
+	border-left-color: currentColor; border-left-width: medium; border-left-style: none;
+}
+.join_agreement_cont .agreement_choice_box table td:first-child {
+	border-left-color: currentColor; border-left-width: medium; border-left-style: none;
+}
+.join_agreement_cont .agreement_choice_box table td {
+	padding: 20px 0px 20px 10px; border-top-color: rgb(220, 220, 220); border-bottom-color: rgb(220, 220, 220); border-left-color: rgb(220, 220, 220); border-top-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-bottom-style: solid; border-left-style: solid;
+}
+.join_agreement_cont .agreement_choice_box .agreement_scroll {
+	height: 92px; -ms-overflow-y: scroll;
+}
+.join_agreement_cont .important_check_box {
+	text-align: center;
+}
+.join_agreement_cont .important_check_box .important_check {
+	background: url("../../img/member/icon_caution02.png") no-repeat 0px 3px; margin: 0px auto; padding: 0px 0px 0px 18px; color: rgb(113, 113, 113); display: inline-block;
+}
+.join_agreement_cont .agreement_box {
+	border-width: 1px; border-style: solid; border-color: rgb(153, 153, 153) rgb(230, 230, 230) rgb(230, 230, 230); margin: 10px 0px 0px; padding: 20px; border-image: none; height: 89px; line-height: 18px; -ms-overflow-x: hidden; -ms-overflow-y: auto;
+}
+.join_agreement_wrap .join_certify_box {
+	margin: 30px 0px 0px;
+}
+.join_agreement_wrap .join_certify_box h3 {
+	font-weight: bold;
+}
+.join_agreement_wrap .join_certify_list {
+	border-width: 1px; border-style: solid; border-color: rgb(153, 153, 153) rgb(230, 230, 230) rgb(230, 230, 230); padding: 50px 0px;
+}
+.join_agreement_wrap .join_certify_list .form_element {
+	display: block;
+}
+.join_agreement_wrap .join_certify_list ul {
+	text-align: center;
+}
+.join_agreement_wrap .join_certify_list li {
+	padding: 0px 13px; display: inline-block;
+}
+.join_agreement_wrap .btn_member_sec ul {
+	margin: 20px 0px 0px; text-align: center; overflow: hidden; font-size: 0px;
+}
+.join_agreement_wrap .btn_member_sec li {
+	display: inline-block;
+}
+.join_agreement_wrap .btn_member_sec li button {
+	background: rgb(107, 107, 107); border: 1px solid rgb(107, 107, 107); border-image: none; width: 150px; height: 42px; color: rgb(255, 255, 255); font-size: 13px; font-weight: bold; cursor: pointer;
+}
+.join_agreement_wrap .btn_member_sec li button:hover {
+	background: rgb(98, 98, 98); border: 1px solid rgb(98, 98, 98); border-image: none; color: rgb(255, 255, 255);
+}
+.agreement_choice_box .form_element {
+	text-align: center;
+}
+.agreement_choice_box .form_element input {
+	left: 26px;
+}
+.member_cont .member_login_box .member_login_shop {
+	margin: 0px 0px 20px; padding: 0px 0px 20px; border-bottom-color: rgb(220, 220, 220); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.member_guide_txt {
+	padding: 18px 0px 20px; text-align: center; color: rgb(102, 102, 102);
+}
+.member_guide_txt a:hover {
+	text-decoration: underline;
+}
+.info_again {
+	padding: 5px 0px 0px; text-align: left; color: rgb(146, 146, 146);
+}
+.info_again a {
+	color: rgb(142, 197, 54); text-decoration: underline;
+}
+.member_password {
+	
+}
+.member_password .btn_gray_list {
+	margin: 0px 5px 0px 0px;
+}
+.base_info_sec .member_email input[type='text'] {
+	width: 251px;
+}
+.base_info_sec .member_email select {
+	width: 120px;
+}
+.addition_info_sec .member_birthday input[type='text'] {
+	width: 306px;
+}
+.addition_info_sec .member_birthday select {
+	width: 70px;
+}
+#contents .member_address .address_postcode {
+	overflow: hidden;
+}
+#contents .member_address .address_postcode input {
+	width: 190px; float: left;
+}
+#contents .member_address .address_postcode .btn_post_search {
+	margin: 0px 0px 0px 5px; padding: 5px 10px; border: 1px solid rgb(152, 152, 152); border-image: none; float: left;
+}
+#contents .member_address .address_input {
+	width: 72%; float: left;
+}
+#contents .member_address .address_input input {
+	margin: 10px 0px 0px;
+}
+#contents .select_jop {
+	width: 380px;
+}
+#contents .select_phone {
+	width: 80px;
+}
+#contents .select_email {
+	width: 120px;
+}
+.user_certify_list {
+	
+}
+.user_certify_list li {
+	padding: 10px 0px;
+}
+.user_certify_list li:first-child {
+	padding-top: 0px;
+}
+.user_certify_list li span {
+	margin: 5px 0px 0px 27px; color: rgb(136, 136, 136); display: block;
+}
+#popup .containers .top {
+	background: rgb(0, 0, 0); padding: 20px 40px; text-align: center;
+}
+#popup .containers .top .title {
+	color: rgb(255, 255, 255); font-size: 16px;
+}
+#popup .containers .content {
+	padding: 0px 20px;
+}
+#popup .containers .content .logo {
+	padding: 30px 0px 0px; text-align: center;
+}
+#popup .containers .content .tit_1 {
+	text-align: center; color: rgb(34, 34, 34); line-height: 26px; font-size: 16px; margin-top: 30px;
+}
+#popup .containers .content .box_info {
+	background: rgb(244, 244, 244); margin: 30px auto 0px; padding: 30px 20px 32px; text-align: center;
+}
+#popup .containers .content .box_info dl {
+	margin: 12px 0px; text-align: left;
+}
+#popup .containers .content .box_info dl::after {
+	clear: both; display: block; content: "";
+}
+#popup .containers .content .box_info dl dt {
+	width: 65px; color: rgb(34, 34, 34); font-size: 16px; font-weight: bold; float: left;
+}
+#popup .containers .content .box_info dl dd {
+	color: rgb(34, 34, 34); font-size: 16px; float: left; max-width: 70%;
+}
+#popup .containers .content .box_check {
+	margin-top: 22px;
+}
+#popup .containers .content .box_check > div {
+	margin-bottom: 12px;
+}
+#popup .containers .content .box_check .eType {
+	width: 20px; height: 20px; margin-right: 10px; vertical-align: middle; display: inline-block;
+}
+#popup .containers .content .box_check .eType + label {
+	background: none; padding-left: 0px;
+}
+#popup .containers .content .box_check label {
+	color: rgb(34, 34, 34); font-size: 15px; display: inline-block;
+}
+#popup .containers .content .box_check label .ico {
+	background: url("../../img/member/btn_arrow.png") no-repeat 99% 50%; color: rgb(34, 34, 34); padding-right: 14px;
+}
+#popup .containers .content .box_check span {
+	color: rgb(136, 136, 136); font-size: 15px;
+}
+#popup .containers .content .btn_wrap {
+	text-align: center; margin-top: 30px;
+}
+#popup .containers .content .btn_wrap a {
+	background: rgb(250, 40, 40); padding: 0px 20px; height: 55px; color: rgb(255, 255, 255); line-height: 55px; font-size: 16px; display: inline-block; max-width: 206px;
+}
+#popup .containers .bottom {
+	padding: 0px 20px 45px; color: rgb(85, 85, 85); line-height: 23px; font-size: 13px; margin-top: 45px;
+}
+#popup .containers .bottom a {
+	color: rgb(43, 80, 240);
+}
+.layer_popup {
+	background: rgb(255, 255, 255); padding: 20px; left: 20px; right: 20px;
+}
+.layer_popup .title {
+	color: rgb(34, 34, 34); font-size: 20px; font-weight: bold;
+}
+.layer_popup .box_text {
+	padding: 20px; border: 1px solid rgb(234, 234, 234); border-image: none; height: 292px; color: rgb(102, 102, 102); line-height: 19px; font-size: 12px; margin-top: 10px; -ms-overflow-y: scroll;
+}
+.layer_popup .btn_wrap {
+	text-align: center; margin-top: 20px;
+}
+.layer_popup .btn_wrap .btn_close {
+	background: rgb(68, 68, 68); width: 72px; height: 42px; color: rgb(255, 255, 255); line-height: 42px; font-size: 13px; font-weight: bold; display: inline-block;
+}
+.dim {
+	background: rgba(0, 0, 0, 0.5); left: 0px; top: 0px; width: 100%; height: 100%; display: none; position: fixed;
+}
+.dim.on {
+	display: block;
+}
+.ly_ag {
+	top: 0px; display: none; position: absolute;
+}
+.box_check input[type='checkbox'] {
+	display: none;
+}
+.box_check input[type='checkbox'] + label {
+	background: url("../../img/member/ico_check_off.png") no-repeat 0px 0px; margin: -2px 10px 0px 0px; line-height: 24px; padding-left: 36px; vertical-align: middle; display: inline-block; cursor: pointer;
+}
+.box_check input[type='checkbox']:checked + label {
+	background: url("../../img/member/ico_check_on.png") no-repeat 0px 0px;
+}
+@media only screen and (max-width:499px)
+{
+#popup .containers .top .title {
+	font-size: 14px;
+}
+#popup .containers .content .tit_1 {
+	line-height: 24px; font-size: 14px;
+}
+#popup .containers .content .box_info dl dt {
+	font-size: 14px;
+}
+#popup .containers .content .box_info dl dd {
+	font-size: 14px;
+}
+#popup .containers .content .box_check label {
+	font-size: 13px;
+}
+#popup .containers .content .box_check span {
+	font-size: 13px;
+}
+#popup .containers .content .btn_wrap a {
+	padding: 0px 20px; height: 45px; line-height: 45px; font-size: 14px;
+}
+#popup .containers .bottom {
+	padding: 0px 20px 20px; line-height: 20px; font-size: 12px; margin-top: 25px;
+}
+.layer_popup .title {
+	color: rgb(34, 34, 34); font-size: 18px; font-weight: bold;
+}
+.layer_popup .box_text {
+	padding: 20px; border: 1px solid rgb(234, 234, 234); border-image: none; height: 292px; color: rgb(102, 102, 102); line-height: 19px; font-size: 12px; margin-top: 10px; -ms-overflow-y: auto;
+}
+.layer_popup .btn_wrap .btn_close {
+	background: rgb(68, 68, 68); width: 72px; height: 42px; color: rgb(255, 255, 255); line-height: 42px; font-size: 12px; font-weight: bold; display: inline-block;
+}
+}
